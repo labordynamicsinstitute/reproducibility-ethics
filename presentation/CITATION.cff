@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Reproducibility, Transparency, and Data Ethics: How and when to share data, and when not to
+message: >-
+  If you use this presentation, please cite it as below.
+type: presentation
+authors:
+  - given-names: Lars
+    family-names: Vilhuber
+    email: lars.vilhuber@cornell.edu
+    affiliation: Cornell University
+    orcid: 'https://orcid.org/0000-0001-5733-8932'
+repository-code: >-
+  https://github.com/labordynamicsinstitute/reproducibility-ethics/
+abstract: >-
+  How do you create transparency and credibility when you cannot share the data you use? What kind of data can you share? We discuss strategies for data collection, data use, and data sharing. This is relevant if you collect your own data, or if you use confidential data.
+license: CC-BY-NC-4.0

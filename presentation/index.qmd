@@ -1,0 +1,90 @@
+---
+title: "Reproducibility, Transparency, and Data Ethics"
+subtitle: "How and when to share data, and when not to"
+author:
+  - "Lars Vilhuber"
+date: "TBD"
+format: 
+  revealjs:
+    scrollable: true
+    margin: 0
+    code-overflow: wrap
+    reference-location: document
+    widescreen: false
+    center: true
+    transition: slide
+    theme: [night, style.css]
+    self_contained: false
+    logo: logo.png
+    footer: ""
+    reveal_options:
+        slideNumber: true
+        previewLinks: false
+        chalkboard:
+          theme: chalkboard
+          toggleNotesButton: true
+    reveal_plugins: ["chalkboard"]
+
+---
+
+
+```{r config,include=FALSE}
+library(here)
+library(knitr)
+library(qrcode)
+
+source(here::here("presentation",'global-libraries.R'))
+# The repository name
+
+message(Sys.getenv("GITHUB_REPOSITORY"))
+
+# Process the repository name to generate the URL
+# - split the two components
+# - combine them into a URL with 'github.io' in the middle
+# Falls back to the canonical repository when rendering locally.
+
+SUBDIRECTORY <- "" # Leave this empty if this file is in the main directory of the repository
+
+GITHUB_REPOSITORY <- Sys.getenv("GITHUB_REPOSITORY", unset = "labordynamicsinstitute/reproducibility-ethics")
+if (GITHUB_REPOSITORY == "") GITHUB_REPOSITORY <- "labordynamicsinstitute/reproducibility-ethics"
+GITHUB_REPOSITORY_PARTS <- strsplit(GITHUB_REPOSITORY, "/")[[1]]
+REPOSITORY_URL <- paste0("https://github.com/", GITHUB_REPOSITORY)
+
+WEBSITE_URL <- paste0("https://", GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSITORY_PARTS[2], "/", SUBDIRECTORY)
+WEBSITE_SHORT <- paste0(GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSITORY_PARTS[2], "/", SUBDIRECTORY)
+
+# QR code pointing to the website
+png(here::here("presentation", "qrcode.png"), width = 600, height = 600)
+plot(qrcode::qr_code(WEBSITE_URL))
+invisible(dev.off())
+```
+
+```{r, child=c(here::here("presentation",'00-follow-along.md'))}
+```
+
+```{r, child=c(here::here("presentation",'00-extra-title-slide.md'))}
+```
+
+```{r, child=c(here::here("presentation",'10-overview.md'))}
+```
+
+```{r, child=c(here::here("presentation",'20-can-you-share.md'))}
+```
+
+```{r, child=c(here::here("presentation",'30-identifying-nonshareable.md'))}
+```
+
+```{r, child=c(here::here("presentation",'40-making-shareable.md'))}
+```
+
+```{r, child=c(here::here("presentation",'50-publishing-with-controls.md'))}
+```
+
+```{r, child=c(here::here("presentation",'90-see-also.md'))}
+```
+
+# The end!
+
+
+```{r, child=c(here::here('99-links.md'))}
+```
