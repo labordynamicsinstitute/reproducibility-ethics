@@ -37,24 +37,24 @@ jobs:
       image: ${{ steps.image.outputs.image }}
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
 
     - name: Image name
       id: image
       run: echo "image=ghcr.io/${GITHUB_REPOSITORY,,}:${{ github.sha }}" >> "$GITHUB_OUTPUT"
 
     - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v3
+      uses: docker/setup-buildx-action@v4
 
     - name: Log in to GHCR
-      uses: docker/login-action@v3
+      uses: docker/login-action@v4
       with:
         registry: ghcr.io
         username: ${{ github.actor }}
         password: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Build and push
-      uses: docker/build-push-action@v6
+      uses: docker/build-push-action@v7
       with:
         context: .
         push: true
@@ -78,7 +78,7 @@ jobs:
     steps:
 
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       with:
         fetch-depth: 0
 
@@ -89,7 +89,7 @@ jobs:
         quarto render presentation/index.qmd --output-dir _html
     - name: Upload HTML Artifact
       id: artifact-upload-step2
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
           name: artifact-html
           path: _html/presentation
@@ -97,7 +97,7 @@ jobs:
     - name: Upload data artifact
       id: artifact-upload-data
       if: ${{ github.event.inputs.create_deposit == 'true' }}
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
           name: artifact-data
           path: data
@@ -112,7 +112,7 @@ jobs:
     container: node:22
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
 
     - name: Build the book
       env:
@@ -121,7 +121,7 @@ jobs:
       run: ./book/build.sh
 
     - name: Upload Book Artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
           name: artifact-book
           path: book/_build/html
@@ -130,10 +130,10 @@ jobs:
     # now make a PDF out of it
   create-pdf:
     needs: compile-quarto
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
     - name: Download quarto artifact
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
         name: artifact-html
         path: _html
@@ -152,12 +152,12 @@ jobs:
           node /decktape/decktape.js --chrome-path /usr/bin/chromium-browser --chrome-arg=--no-sandbox --chrome-arg=--disable-gpu index.html index.pdf
 
     - name: Upload Artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: artifact-presentation-pdf
         path: _html/index.pdf
   deploy-all:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     needs:
       - compile-quarto
       - compile-book
@@ -167,17 +167,17 @@ jobs:
     # Pull down all artifacts
 
     - name: Download Book Artifact
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
             path: .
             pattern: artifact-book
     - name: Download HTML Artifacts
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
             path: .
             pattern: artifact-html
     - name: Download Pres PDF
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
             path: .
             pattern: artifact-presentation-pdf
@@ -191,7 +191,7 @@ jobs:
           mv artifact-presentation-pdf/index.pdf website/presentation/presentation.pdf
     # Prepare the GitHub Pages action
     - name: prepare GitHub Pages action
-      uses: actions/upload-pages-artifact@v3.0.1    
+      uses: actions/upload-pages-artifact@v5    
       with:
         path: ./website
   
@@ -209,18 +209,18 @@ jobs:
     #   url: ${{ steps.deployment.outputs.page_url }}
 
     # Specify runner + deployment step
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 
+        uses: actions/deploy-pages@v5 
   preserve:
     needs: compile-quarto
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     if: ${{ github.event.inputs.create_deposit == 'true' }}
     steps:
     - name: Download quarto artifact
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
         name: artifact-data
         path: data
