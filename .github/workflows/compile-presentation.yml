@@ -106,6 +106,27 @@ jobs:
      
 
 
+  # Companion book (Jupyter Book 2 / mystmd); book/build.sh runs directly in this container
+  compile-book:
+    runs-on: ubuntu-24.04
+    container: node:22
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Build the book
+      env:
+        BASE_URL: /${{ github.event.repository.name }}
+        IN_CONTAINER: "1"
+      run: ./book/build.sh
+
+    - name: Upload Book Artifact
+      uses: actions/upload-artifact@v4
+      with:
+          name: artifact-book
+          path: book/_build/html
+          retention-days: 1
+
     # now make a PDF out of it
   create-pdf:
     needs: compile-quarto
@@ -137,13 +158,19 @@ jobs:
         path: _html/index.pdf
   deploy-all:
     runs-on: ubuntu-22.04
-    needs: 
+    needs:
       - compile-quarto
+      - compile-book
       - create-pdf
     if: ${{ github.event.inputs.refresh_website == 'true' || github.event_name == 'push' }}
     steps:
     # Pull down all artifacts
-    
+
+    - name: Download Book Artifact
+      uses: actions/download-artifact@v4
+      with:
+            path: .
+            pattern: artifact-book
     - name: Download HTML Artifacts
       uses: actions/download-artifact@v4
       with:
@@ -154,13 +181,14 @@ jobs:
       with:
             path: .
             pattern: artifact-presentation-pdf
-   # Adjust this to reflect what you are posting
+   # Book at the site root, slides (and PDF) under /presentation/
     - name: Move stuff
       run: |
           set -ev
           ls -lR
-          mv artifact-html website
-          mv artifact-presentation-pdf/index.pdf website/presentation.pdf
+          mv artifact-book website
+          mv artifact-html website/presentation
+          mv artifact-presentation-pdf/index.pdf website/presentation/presentation.pdf
     # Prepare the GitHub Pages action
     - name: prepare GitHub Pages action
       uses: actions/upload-pages-artifact@v3.0.1    

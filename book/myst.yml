@@ -1,0 +1,35 @@
+# Jupyter Book 2 / mystmd configuration
+# See https://mystmd.org/guide/frontmatter and https://jupyterbook.org
+version: 1
+project:
+  id: reproducibility-ethics
+  title: "Reproducibility, Transparency, and Data Ethics"
+  subtitle: "How and when to share data, and when not to"
+  description: "How do you create transparency and credibility when you cannot share the data you use? What kind of data can you share? Strategies for data collection, data use, and data sharing."
+  authors:
+    - name: Lars Vilhuber
+      affiliations: Cornell University
+      orcid: 0000-0001-5733-8932
+  github: https://github.com/labordynamicsinstitute/reproducibility-ethics
+  license: CC-BY-NC-4.0
+  copyright: "2026"
+  bibliography:
+    - references.bib
+  exclude:
+    - scripts/**
+    - _build/**
+  toc:
+    - file: index.md
+    - title: Sharing data
+      children:
+        - file: 01-can-you-share.md
+        - file: 02-identifying-nonshareable.md
+        - file: 03-making-shareable.md
+        - file: 04-publishing-with-controls.md
+    - file: 05-see-also.md
+    - file: bibliography.md
+site:
+  template: book-theme
+  options:
+    folders: true
+    logo_text: "Reproducibility & Data Ethics"

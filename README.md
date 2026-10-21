@@ -4,20 +4,35 @@
 
 How do you create transparency and credibility when you cannot share the data you use? What kind of data can you share? We discuss strategies for data collection, data use, and data sharing. This is relevant if you collect your own data, or if you use confidential data.
 
-Slides are derived from the [Reproducibility curriculum](https://github.com/labordynamicsinstitute/reproducibility-curriculum) module `modules/12-reproducibility-ethics.qmd`.
+Slides and book are derived from the [Reproducibility curriculum](https://github.com/labordynamicsinstitute/reproducibility-curriculum) module `modules/12-reproducibility-ethics.qmd`.
 
 ## Follow along
 
-- Slides: <https://labordynamicsinstitute.github.io/reproducibility-ethics/>
-- PDF: <https://labordynamicsinstitute.github.io/reproducibility-ethics/presentation.pdf>
+- Book: <https://labordynamicsinstitute.github.io/reproducibility-ethics/>
+- Slides: <https://labordynamicsinstitute.github.io/reproducibility-ethics/presentation/>
+- PDF: <https://labordynamicsinstitute.github.io/reproducibility-ethics/presentation/presentation.pdf>
 
 ## Structure
 
+- `book/` -- companion book (Jupyter Book 2 / mystmd)
+  - `myst.yml` -- configuration and table of contents
+  - `NN-*.md` -- chapters
+  - `references.bib` -- bibliography for the whole book
+  - `bibliography.md` -- **generated** by `scripts/make-bibliography.mjs` from `references.bib` (mystmd has no "cite all" directive)
 - `presentation/index.qmd` -- Quarto revealjs driver; includes the slide fragments below
 - `presentation/NN-*.md` -- slide fragments, in order
 - `99-links.md` -- source and license slide
 
-## Rendering
+## Book
+
+```bash
+./book/build.sh          # static HTML in book/_build/html
+./book/build.sh start    # live preview at http://localhost:3000
+```
+
+Runs entirely in the `node:22` container (Jupyter Book pinned in `book/build.sh`); no local Node or Python needed. Citations use `[@key]` (hover cards plus per-page references); each chapter's margin "Readings" note uses `` {cite:t}`key` `` inside an `:::{aside}`.
+
+## Slides
 
 ```bash
 ./presentation/render_presentation.sh   # renders to _html/presentation/

@@ -43,7 +43,7 @@ message(Sys.getenv("GITHUB_REPOSITORY"))
 # - combine them into a URL with 'github.io' in the middle
 # Falls back to the canonical repository when rendering locally.
 
-SUBDIRECTORY <- "" # Leave this empty if this file is in the main directory of the repository
+SUBDIRECTORY <- "presentation/" # The book is at the site root; slides live here
 
 GITHUB_REPOSITORY <- Sys.getenv("GITHUB_REPOSITORY", unset = "labordynamicsinstitute/reproducibility-ethics")
 if (GITHUB_REPOSITORY == "") GITHUB_REPOSITORY <- "labordynamicsinstitute/reproducibility-ethics"
