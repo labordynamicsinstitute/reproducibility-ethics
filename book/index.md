@@ -17,6 +17,7 @@ Placeholder page -- bullet points only, prose to come.
 
 - Researchers who **collect their own data**
 - Researchers who use **confidential data**
+- Researchers who thought they used **public data**
 
 ## Roadmap
 
@@ -30,4 +31,4 @@ Placeholder page -- bullet points only, prose to come.
 ## Companion materials
 
 - Slides: [presentation](https://labordynamicsinstitute.github.io/reproducibility-ethics/presentation/) ([PDF](https://labordynamicsinstitute.github.io/reproducibility-ethics/presentation/presentation.pdf))
-- Part of the [Reproducibility curriculum](https://github.com/labordynamicsinstitute/reproducibility-curriculum)
+- Part of the [Reproducibility curriculum](https://labordynamicsinstitute.github.io/reproducibility-curriculum)
