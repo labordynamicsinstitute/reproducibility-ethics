@@ -23,6 +23,7 @@ project:
     - title: Sharing data
       children:
         - file: 01-can-you-share.md
+        - file: 01-irb-and-consent.md
         - file: 02-identifying-nonshareable.md
         - file: 03-making-shareable.md
         - file: 04-publishing-with-controls.md
@@ -33,3 +34,4 @@ site:
   options:
     folders: true
     logo_text: "Reproducibility & Data Ethics"
+    style: ./custom.css
