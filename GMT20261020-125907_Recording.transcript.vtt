@@ -1,0 +1,3454 @@
+WEBVTT
+
+1
+00:00:15.390 --> 00:00:31.380
+Warren 416: All right, go for it. Yeah, you can… anyway, you guys know Lars at this point, so I'll go ahead and turn over the floor. It's great to have some folks here in person. We wish you were all here, but, hope we can make this hybrid format work, and we'll have several trainings this way, so…
+
+2
+00:00:31.550 --> 00:00:33.970
+Warren 416: Very happy to have everyone.
+
+3
+00:00:34.270 --> 00:00:37.539
+Warren 416: Good, good. Okay.
+
+4
+00:00:37.670 --> 00:00:44.709
+Warren 416: So I don't have slides today because this is more of a conversation. It is in a…
+
+5
+00:00:44.960 --> 00:00:47.490
+Warren 416: In a general sense, much…
+
+6
+00:00:47.690 --> 00:00:54.680
+Warren 416: less well-established about what people should do. Some pieces are well-established, and I'm not gonna rehash those, but point you to that.
+
+7
+00:00:54.920 --> 00:00:58.540
+Warren 416: I want to talk about How you can square
+
+8
+00:00:59.400 --> 00:01:03.390
+Warren 416: Transparency and sharing what you're doing
+
+9
+00:01:03.880 --> 00:01:13.350
+Warren 416: In the ideal world, where you're just using public use data and your code's all out there, everything's out there. That's what journals want, that's what research ethics suggests you do.
+
+10
+00:01:14.200 --> 00:01:20.979
+Warren 416: With the fact that there always are some pieces of that analysis that may require confidentiality.
+
+11
+00:01:21.100 --> 00:01:28.850
+Warren 416: Right? Maybe you're running a survey, and you owe privacy to your respondents. You've promised it to them, you've signed off on that, and…
+
+12
+00:01:28.960 --> 00:01:35.470
+Warren 416: We'll talk about that. You might be using administrative data that's not yours. You might have purchased in data that
+
+13
+00:01:35.620 --> 00:01:42.489
+Warren 416: Even though you might want to make it public, you don't see anything there. The company that sold the data, or made accessible the data, doesn't want you to do that.
+
+14
+00:01:43.650 --> 00:01:45.130
+Warren 416: So I want to talk about
+
+15
+00:01:47.360 --> 00:01:51.950
+Warren 416: With you in terms of what your particular research uses are of this.
+
+16
+00:01:53.000 --> 00:01:55.689
+Warren 416: when… Can you share the data?
+
+17
+00:01:56.000 --> 00:02:09.699
+Warren 416: Right, how you determine that? We've touched on that before, right? So this goes back to those licenses. I want to walk you through a few quick examples, some of which are not necessarily always obvious, right? So, it starts with data that
+
+18
+00:02:09.840 --> 00:02:11.440
+Warren 416: is called public.
+
+19
+00:02:12.240 --> 00:02:14.470
+Warren 416: And yet it's not entirely.
+
+20
+00:02:14.630 --> 00:02:15.600
+Warren 416: Shareable.
+
+21
+00:02:15.740 --> 00:02:16.430
+Warren 416: Okay.
+
+22
+00:02:20.050 --> 00:02:35.590
+Warren 416: I want to talk about the process that, if you haven't gone through, some of you probably haven't gone through an ethics review board, an ethics board, whatever they're called, they're called different things. In some cases, they're sub-institution specific, in some cases, they're country-specific.
+
+23
+00:02:35.960 --> 00:02:36.670
+Warren 416: Okay.
+
+24
+00:02:38.200 --> 00:02:45.050
+Warren 416: And in some cases, there's legal restrictions on that, in terms of various… frameworks that…
+
+25
+00:02:45.830 --> 00:02:51.599
+Warren 416: Can, in some cases, turn what you think is public data into something that you now have to worry about here.
+
+26
+00:02:52.070 --> 00:02:52.910
+Warren 416: Okay.
+
+27
+00:02:53.850 --> 00:03:00.469
+Warren 416: The most obvious one is GDPR in the European Union, or anything that affects a European Union citizen.
+
+28
+00:03:02.510 --> 00:03:13.449
+Warren 416: But it's not restricted to just Europe. Brazil has a very restrictive law that has impacted, for instance, in our case, the kind of data that researchers who have worked with Brazilian data can make available.
+
+29
+00:03:13.640 --> 00:03:23.620
+Warren 416: I'll mention two examples out of my own research, and there may be many others out there, including near countries, which I don't know the legal background, but that you need to be aware of when you're conducting.
+
+30
+00:03:24.510 --> 00:03:25.220
+Warren 416: Fair.
+
+31
+00:03:25.950 --> 00:03:34.930
+Warren 416: When you think about oh, I promised privacy to my respondents.
+
+32
+00:03:36.210 --> 00:03:38.959
+Warren 416: at least in the US, and this may be…
+
+33
+00:03:39.100 --> 00:03:42.800
+Warren 416: Something, again, to look into for every country.
+
+34
+00:03:43.220 --> 00:03:47.260
+Warren 416: What institutional review boards, ethics boards, ponder.
+
+35
+00:03:47.780 --> 00:03:57.699
+Warren 416: And this is easiest to conceive of in a medical situation, where we are social scientists, so some similar things involved are… can be involved there, too.
+
+36
+00:03:58.200 --> 00:03:59.370
+Warren 416: They weigh.
+
+37
+00:03:59.590 --> 00:04:05.009
+Warren 416: This intrusion to privacy, With the question, why do you want to do that?
+
+38
+00:04:05.510 --> 00:04:08.320
+Warren 416: What is it worth that we are going to
+
+39
+00:04:08.700 --> 00:04:11.620
+Warren 416: Violate these people's privacy, even if just a tiny bit.
+
+40
+00:04:12.800 --> 00:04:15.869
+Warren 416: What is the counterpart to that? There has to be a counterpart.
+
+41
+00:04:16.170 --> 00:04:25.959
+Warren 416: Okay, and so one of those counterparts, person that I like very much what she writes about, she comes out of a medieval background, but, Meyer.
+
+42
+00:04:26.140 --> 00:04:35.680
+Warren 416: Has argued, and she's not alone in this, she's reflecting on what the literature says, that one of those obligations to increase the public good, to outweigh that private cost.
+
+43
+00:04:35.950 --> 00:04:44.490
+Warren 416: is, among other things, to make the data as broadly available as possible. It doesn't mean throwing it over the wall, but to make it as broad as possible, because that increases the potential benefits.
+
+44
+00:04:44.750 --> 00:04:46.749
+Warren 416: From that hurt that you're causing.
+
+45
+00:04:47.990 --> 00:05:00.760
+Warren 416: Wait, just to clarify, so the idea is that if you're going to have it be able to be gotten into any hands, then you have to make sure that it's as transparent as possible so that the right people are getting it too, because there's a risk being created by having it
+
+46
+00:05:00.760 --> 00:05:11.829
+Warren 416: be made in any way public to a certain person or a certain species? Yes, that's correct. I mean, it's not about throwing it over the wall. Here's the internet, throw it out there. That's not the right solution.
+
+47
+00:05:12.150 --> 00:05:20.909
+Warren 416: But saying, and this does regularly appear in these kinds of agreements that you might write with your researchers.
+
+48
+00:05:21.050 --> 00:05:23.140
+Warren 416: Hey, I'm the super guy.
+
+49
+00:05:23.760 --> 00:05:26.930
+Warren 416: Trust me, I'm the only one who's ever going to look at the data.
+
+50
+00:05:27.140 --> 00:05:34.449
+Warren 416: Right, so that exact polar opposite of throwing it over the wall is also not the idea, because
+
+51
+00:05:34.800 --> 00:05:48.610
+Warren 416: I might have the chips but to sort of say, I'm the best in the world, and I'm going to do all the possible analysis ever with this data, but that's almost certainly not true. So making others be able to build on this, even if there's just a small chance of doing that.
+
+52
+00:05:48.800 --> 00:05:58.769
+Warren 416: It does possibly increase the risk of something, so we are possibly increasing the risk, but we're also possibly increasing the benefits in making the data more broadly, not
+
+53
+00:05:59.110 --> 00:06:03.089
+Warren 416: Over the wall. Globally, but more broadly available, and we'll talk about
+
+54
+00:06:03.190 --> 00:06:08.910
+Warren 416: some of the possibilities of doing so, because they are going to affect your stance on, well, can I make it more broadly available?
+
+55
+00:06:13.090 --> 00:06:23.969
+Warren 416: We're going to talk about some practices on how you know that data cannot be shared. Did you have data in your step that you cannot share?
+
+56
+00:06:24.380 --> 00:06:28.589
+Warren 416: And… Ways of treating the data
+
+57
+00:06:29.100 --> 00:06:33.339
+Warren 416: To make it more shareable, and ways of publishing the data
+
+58
+00:06:33.440 --> 00:06:38.350
+Warren 416: With controls to… well, if you can't make the data themselves be less…
+
+59
+00:06:38.750 --> 00:06:45.759
+Warren 416: revealing, are there ways that you can do what you just mentioned in terms of, can I control who accesses the data in some way?
+
+60
+00:06:46.230 --> 00:06:46.960
+Warren 416: Okay.
+
+61
+00:06:47.790 --> 00:06:55.369
+Warren 416: But let me ask the question in the round. Who actually has Been working with data.
+
+62
+00:06:55.520 --> 00:06:57.809
+Warren 416: That they cannot publish.
+
+63
+00:07:00.770 --> 00:07:03.510
+Warren 416: Yeah. Yeah? Online, anybody?
+
+64
+00:07:05.240 --> 00:07:16.830
+Warren 416: So, can you tell me… I mean, I guess maybe I… okay, now I think I'm confused, because I think a couple of us are working on DHS data, and my understanding is that you cannot…
+
+65
+00:07:17.140 --> 00:07:31.359
+Warren 416: Well, and apparently you correctly analyzed that, and the others here did not. That's correct. Okay. So that's one, and then I'm working on an RCT.
+
+66
+00:07:31.440 --> 00:07:38.289
+Warren 416: And I don't… I'm not sure what… I don't know, we're not… I don't think we can share the data, or I'm not sure, so…
+
+67
+00:07:38.580 --> 00:07:52.300
+Warren 416: So, one of the things, and this goes back to what I mentioned in terms of the coding practices, is that these need to be built in from the start. So you need to know right from the start, can I share the data? Because that will affect how you collect the data.
+
+68
+00:07:52.560 --> 00:07:58.370
+Warren 416: It will affect how you write your code. We can talk a bit about that, too, about some catches.
+
+69
+00:07:58.480 --> 00:08:02.160
+Warren 416: That might happen when you have that kind of data built in.
+
+70
+00:08:02.410 --> 00:08:14.689
+Warren 416: So, sorry, I, like, yeah, as Reem said, yeah, I'm a little bit… was confused at that, and I kept silence because the ZHS, yeah, and I'm using ZA chase, and
+
+71
+00:08:14.910 --> 00:08:19.030
+Warren 416: So, as long as, yeah, as far as I know, that is chase is, like.
+
+72
+00:08:19.570 --> 00:08:31.900
+Warren 416: Yeah, I… I mean, it's free for everybody, as long as we have the, we have the account, every… everybody can access it, and that's why I said, like, keep saying it, yeah. I mean…
+
+73
+00:08:31.920 --> 00:08:41.640
+Warren 416: But you can't share it, because… I can't share my… I can't share, so here's all these… here's all these terms that come across, right? It's free.
+
+74
+00:08:42.169 --> 00:08:45.910
+Warren 416: I freeze the money that you pay. It has nothing to do
+
+75
+00:08:46.420 --> 00:08:53.459
+Warren 416: with… that you can then do with data, right? If you purchase data, It's not free.
+
+76
+00:08:54.650 --> 00:09:05.559
+Warren 416: But what can you do with the data is very different. You might be able to purchase it and share it with other people. You might be able to purchase the data and share it with everybody, because that's what you want. You might be able to purchase the right to access the data.
+
+77
+00:09:05.720 --> 00:09:06.770
+Warren 416: Right?
+
+78
+00:09:07.590 --> 00:09:15.300
+Warren 416: Anybody ever read the sort of long list of user agreements that you have to click through when you open a software for the first time?
+
+79
+00:09:15.300 --> 00:09:32.109
+Warren 416: Right? Did you actually read it? One of the things that you should… look at it the next time that you open one of these, because it's the same thing. You did not purchase the software so that you can do whatever you want with it.
+
+80
+00:09:32.600 --> 00:09:48.309
+Warren 416: You purchase the right to use the software. A non-exclusive right to use the software, so the company can sell that right to others as well, and it gives you no rights to resell the software, or to publish it, or to give it out on your own.
+
+81
+00:09:49.010 --> 00:09:50.560
+Warren 416: On the other hand.
+
+82
+00:09:50.820 --> 00:10:05.960
+Warren 416: If you pay a programmer to code something up, your survey instrument, etc, typically those contracts are that you build that for me, and you transfer owner right to me. I own the software then, even if that guy did it.
+
+83
+00:10:06.380 --> 00:10:07.450
+Warren 416: Okay?
+
+84
+00:10:07.950 --> 00:10:21.690
+Warren 416: Same thing, software that you are using in some kind, but in one case, you purchased the right to use it from, say, Microsoft, and the other, you paid a programmer to make it for you, and you now own everything. Doesn't matter that he did it. You own it, you can do anything you want.
+
+85
+00:10:22.410 --> 00:10:23.810
+Warren 416: Same kind of scenario.
+
+86
+00:10:24.390 --> 00:10:31.069
+Warren 416: And so for data, it's the same thing, right? So I have a data use conundrum that
+
+87
+00:10:31.070 --> 00:10:45.400
+Warren 416: I might want to talk to you about some of the details about it offline, but in case it's useful, I'm in a really weird situation where I've been collecting data from Malawi, household-level data on food security, not very highly sensitive, but still, you know, personal.
+
+88
+00:10:45.470 --> 00:10:54.639
+Warren 416: for many, many years, the data was under USAID, which no longer exists. So the funder was USAID, now the funder is Cornell.
+
+89
+00:10:54.700 --> 00:11:10.400
+Warren 416: But the data date back to… and during the period of the funding, there was FCDO involved, but they pulled out. They now no longer have any interest in the data that they collected. USAID no longer exists, and there was no mechanism remaining for me to share the data through USAID systems, because they were dismantled immediately.
+
+90
+00:11:10.400 --> 00:11:22.100
+Warren 416: So I have been in a weird spot where under my IRB, I have no idea what to do. And I've been basically sharing the data within Cornell in an ad hoc way, de-identified.
+
+91
+00:11:22.100 --> 00:11:32.970
+Warren 416: But anyway, I wonder if there… if it's useful to think of the… And I have run into similar situations in other cases as well, so let's come back to that. Remind me when we get to that.
+
+92
+00:11:33.120 --> 00:11:39.969
+Warren 416: So, here's the DHS program page. Let me make this a bit bigger.
+
+93
+00:11:40.330 --> 00:11:47.229
+Warren 416: Right? It's never front and center, but here's the part. DHS program is authorized.
+
+94
+00:11:47.450 --> 00:11:53.190
+Warren 416: To distribute, at no cost, unrestricted survey data files for legitimate academic research.
+
+95
+00:11:54.190 --> 00:11:56.420
+Warren 416: Okay? At no cost.
+
+96
+00:11:57.860 --> 00:12:00.870
+Warren 416: But with a bunch of conditions, actually, on there, right?
+
+97
+00:12:01.380 --> 00:12:08.530
+Warren 416: And whether that's their intent or their requirement, Is an open question.
+
+98
+00:12:08.640 --> 00:12:09.470
+Warren 416: Right?
+
+99
+00:12:09.600 --> 00:12:13.969
+Warren 416: They actually have a registration rationale.
+
+100
+00:12:16.020 --> 00:12:16.820
+Warren 416: Right?
+
+101
+00:12:17.180 --> 00:12:22.400
+Warren 416: Where the very first thing they say is that they're publicly available and can be downloaded free of charge.
+
+102
+00:12:23.900 --> 00:12:30.650
+Warren 416: Okay? Among other things, and this might be relevant for what you were just saying, is that…
+
+103
+00:12:30.910 --> 00:12:38.830
+Warren 416: the host country is actually the owner of the data, right? So data sovereignty is not something that we tend to write pretty large in economics.
+
+104
+00:12:39.700 --> 00:12:49.050
+Warren 416: But talk to anybody, say, in biology or stuff like that, and data sovereignty about data from our country, about our people, about our country, is written very large.
+
+105
+00:12:49.230 --> 00:12:50.130
+Warren 416: Right?
+
+106
+00:12:50.370 --> 00:12:57.549
+Warren 416: I was reading an article the other day about organic food coloring of blue.
+
+107
+00:12:57.660 --> 00:13:03.300
+Warren 416: Frankly, that's super hard, because there aren't many blue stuffs out there, right?
+
+108
+00:13:03.420 --> 00:13:07.120
+Warren 416: And there's some… Colombian.
+
+109
+00:13:07.330 --> 00:13:11.170
+Warren 416: Plant that, when oxidized, makes blue.
+
+110
+00:13:12.190 --> 00:13:13.710
+Warren 416: only grows in Columbia.
+
+111
+00:13:14.470 --> 00:13:16.019
+Warren 416: So somebody now patents it.
+
+112
+00:13:16.120 --> 00:13:19.070
+Warren 416: And sells the patent. And who benefits from that?
+
+113
+00:13:19.280 --> 00:13:28.640
+Warren 416: where should the royalty payments go? That's data sovereignty, right? Here's the intellectual knowledge of how to create a molecule that actually makes organic bloom.
+
+114
+00:13:29.290 --> 00:13:38.850
+Warren 416: who should benefit from that? So data sovereignty is something writ large. It also is applicable to many of the DHS, which are literally run by the countries with funding from elsewhere.
+
+115
+00:13:39.350 --> 00:13:45.010
+Warren 416: But that's one of the things. But we still haven't seen here anything that says something about
+
+116
+00:13:46.090 --> 00:13:49.629
+Warren 416: what you can do with the data, right? You're allowed to download it.
+
+117
+00:13:50.070 --> 00:13:52.989
+Warren 416: Agreements with host countries include commitments that
+
+118
+00:13:53.490 --> 00:13:58.250
+Warren 416: The data are used by real people with legitimate purposes.
+
+119
+00:13:58.550 --> 00:13:59.440
+Warren 416: Okay?
+
+120
+00:13:59.660 --> 00:14:01.929
+Warren 416: You can now glimpse some part of
+
+121
+00:14:02.080 --> 00:14:05.350
+Warren 416: What may actually lead to restrictions on that?
+
+122
+00:14:05.940 --> 00:14:08.740
+Warren 416: If you were to take the DHS data.
+
+123
+00:14:09.250 --> 00:14:12.940
+Warren 416: You were deemed a legitimate purpose, so that's why you got access to it.
+
+124
+00:14:13.490 --> 00:14:15.290
+Warren 416: If you give it to somebody else.
+
+125
+00:14:16.010 --> 00:14:20.409
+Warren 416: How can you verify that they have a legitimate purpose by these same rules?
+
+126
+00:14:21.310 --> 00:14:22.820
+Warren 416: You can't.
+
+127
+00:14:23.540 --> 00:14:24.290
+Warren 416: Fantastic.
+
+128
+00:14:24.660 --> 00:14:32.110
+Warren 416: And so… And in particular, you do not have that agreement with the host country. DHS program has.
+
+129
+00:14:32.950 --> 00:14:38.680
+Warren 416: So, this should give you some idea that there probably are going to be restrictions on this.
+
+130
+00:14:39.040 --> 00:14:53.220
+Warren 416: There are others, and I didn't find, when preparing this, the exact link to that, but I think HRS is something similar, the Health and Retirement Service in the United States, where they do allow you to distribute the data.
+
+131
+00:14:53.610 --> 00:14:59.480
+Warren 416: As long as you can verify that the people have been authorized by AHRS to use the data.
+
+132
+00:15:00.730 --> 00:15:04.270
+Warren 416: So, if you can't, then you can't distribute the data.
+
+133
+00:15:04.470 --> 00:15:09.729
+Warren 416: Right? So, that formalizes something that probably is implicit in all these other things.
+
+134
+00:15:09.990 --> 00:15:10.740
+Warren 416: Right.
+
+135
+00:15:10.930 --> 00:15:13.489
+Warren 416: And then, if you actually go here.
+
+136
+00:15:14.980 --> 00:15:17.830
+Warren 416: Now you actually see, for the first time.
+
+137
+00:15:18.940 --> 00:15:22.980
+Warren 416: Redistribution is not permitted in bold, right there.
+
+138
+00:15:26.200 --> 00:15:29.099
+Warren 416: But again, notice who gets to see this.
+
+139
+00:15:31.000 --> 00:15:36.459
+Warren 416: So, when you register for the first time, You get to see this.
+
+140
+00:15:37.390 --> 00:15:40.549
+Warren 416: Years later, you come back, you've been a user of this stuff.
+
+141
+00:15:40.950 --> 00:15:42.800
+Warren 416: You have forgotten about.
+
+142
+00:15:44.550 --> 00:15:52.410
+Warren 416: Right? Yeah, for Godita, I mean, it was like… Yes, correct. And so…
+
+143
+00:15:53.180 --> 00:16:03.239
+Warren 416: remember what I said the first time we met in terms of service practices, where we spent a lot of time not even coding, but just downloading the data and recording? What are the purposes
+
+144
+00:16:03.370 --> 00:16:09.269
+Warren 416: What are the restrictions? What are the permissions? What are the rights that I get when I get access to this data?
+
+145
+00:16:11.090 --> 00:16:17.030
+Warren 416: is historically also something, like you were just saying, you were distributing the data informally within Cornell.
+
+146
+00:16:17.280 --> 00:16:29.429
+Warren 416: You know what the problems are with the data, but do the people that you distributed them know that as well when they get the data, right? So we have seen papers with PhD students who say, I got the data from my thesis advisor.
+
+147
+00:16:30.510 --> 00:16:49.820
+Warren 416: well, yeah, but you shouldn't be publishing this, because that's actually confidential data. I know that. You should have known that, right? But as long as that's not conveyed further down the road, the stickiness of these, which legally is there, that stickiness is there. There's a particular license that's stuck to these data, that travels with the data.
+
+148
+00:16:51.380 --> 00:16:55.229
+Warren 416: And that you are not the arbitr of whether or not it goes through.
+
+149
+00:16:56.280 --> 00:16:58.029
+Warren 416: But if you flip that around.
+
+150
+00:16:58.380 --> 00:17:03.269
+Warren 416: everything that we just said that the DHS program imposes on people who use their data.
+
+151
+00:17:04.310 --> 00:17:07.149
+Warren 416: What if you are the data distributor for data you collected?
+
+152
+00:17:08.230 --> 00:17:09.730
+Warren 416: Can you now say?
+
+153
+00:17:10.020 --> 00:17:14.529
+Warren 416: I don't want to just throw it out there, I want to ensure that people do this in a reasonable way.
+
+154
+00:17:14.960 --> 00:17:15.690
+Warren 416: Right?
+
+155
+00:17:16.839 --> 00:17:24.610
+Warren 416: So, all of these things for you, can also be a model. If you put yourself in the position, here's data that I own, that I collected.
+
+156
+00:17:25.859 --> 00:17:29.930
+Warren 416: Or that I collaborated with an administration to create this thing.
+
+157
+00:17:30.260 --> 00:17:33.840
+Warren 416: But I want to give it to others. Can we put in place something like that?
+
+158
+00:17:36.650 --> 00:17:42.439
+Warren 416: Maybe not as big and fancy as the DHS program. Are there other things? And we'll talk about that further down the road.
+
+159
+00:17:43.320 --> 00:17:51.749
+Warren 416: Yeah, yeah, sometimes about transparency, like, if you clean your data from low data.
+
+160
+00:17:51.900 --> 00:17:59.350
+Warren 416: And some journals, and when you want to, like, educate others how, in that court you use.
+
+161
+00:17:59.750 --> 00:18:04.800
+Warren 416: So, I remember one drano said, we should get the permission from the…
+
+162
+00:18:05.440 --> 00:18:09.730
+Warren 416: The statistical Institute that produced the data, so…
+
+163
+00:18:10.230 --> 00:18:12.659
+Warren 416: Is that a good practice, or…
+
+164
+00:18:13.090 --> 00:18:19.600
+Warren 416: So if you're getting your data from statistical institutes, then yes, you should always ask, are these data shareable?
+
+165
+00:18:20.040 --> 00:18:32.649
+Warren 416: But the other part of the transparency that I'm just going to assume right now, what I've learned from some read reports on an article that I'll get to at the later stage of this, that I shouldn't, is that in most
+
+166
+00:18:33.020 --> 00:18:36.380
+Warren 416: cutting edge… transparency policies.
+
+167
+00:18:36.850 --> 00:18:39.329
+Warren 416: That code that you use for the cleaning.
+
+168
+00:18:39.440 --> 00:18:45.649
+Warren 416: you're required to provide, even if you cannot provide the data. Precisely because for this purpose, that
+
+169
+00:18:46.000 --> 00:18:50.350
+Warren 416: you're sort of saying, look, why should I give you the code? You can't get the data from me.
+
+170
+00:18:50.530 --> 00:18:51.220
+Warren 416: Right?
+
+171
+00:18:51.330 --> 00:18:54.680
+Warren 416: But that's actually not the right description of the situation.
+
+172
+00:18:55.010 --> 00:19:01.859
+Warren 416: Here's the code, because you can go to the same guy who gave me the data and get the same data, and now you can run that
+
+173
+00:19:02.120 --> 00:19:03.290
+Warren 416: and build on.
+
+174
+00:19:03.780 --> 00:19:07.829
+Warren 416: Right? And you can inspect the code, even if you don't have the data.
+
+175
+00:19:08.120 --> 00:19:13.120
+Warren 416: And say, is what they're doing reasonable, even without looking at the data?
+
+176
+00:19:13.370 --> 00:19:21.709
+Warren 416: Right? Are you properly handling this aggregation? I don't need the data to sort of say what you're doing there might be wrong.
+
+177
+00:19:21.870 --> 00:19:25.819
+Warren 416: Right? It might literally be written in code, what you're doing is wrong.
+
+178
+00:19:26.670 --> 00:19:36.959
+Warren 416: Even before I touched the data. Maybe you're… I know that you didn't read the documentation, and there's missing variables. There's some classical cases where
+
+179
+00:19:37.120 --> 00:19:50.559
+Warren 416: missing values in years of education was coded as 9-9, but people hadn't removed it because it wasn't this data missing value, right? And so now, all of a sudden, your mean and your median are both completely wrong.
+
+180
+00:19:50.680 --> 00:19:54.470
+Warren 416: Right, the mean very much so, and the median depends on the distribution, right?
+
+181
+00:19:54.930 --> 00:20:03.280
+Warren 416: I don't need access to the data to see that that's the case, but that immediately puts anything downstream from that. So, I'm going to assume…
+
+182
+00:20:03.560 --> 00:20:12.959
+Warren 416: that all of the code that you're doing will get there. At the end, I'll come back to when code itself might be,
+
+183
+00:20:13.240 --> 00:20:17.499
+Warren 416: Confidential, and again, that's something that you have to build in from the start.
+
+184
+00:20:20.620 --> 00:20:27.260
+Warren 416: But to sort of go back to some other part you were saying, RCT, If you are collecting data.
+
+185
+00:20:27.800 --> 00:20:29.390
+Warren 416: You're running a survey.
+
+186
+00:20:30.000 --> 00:20:33.409
+Warren 416: If you're running a survey, you've got permission to run the survey.
+
+187
+00:20:34.340 --> 00:20:39.039
+Warren 416: That permission already locks you in into certain things, and not every…
+
+188
+00:20:39.600 --> 00:20:44.390
+Warren 416: IRB or Ethics Board may have read,
+
+189
+00:20:44.510 --> 00:20:49.600
+Warren 416: Michelle Meyer's article that you should be sharing as broadly as possible.
+
+190
+00:20:50.590 --> 00:20:56.149
+Warren 416: It is actually possible to go back to respondents to ask for permission to share more broadly.
+
+191
+00:20:56.310 --> 00:20:59.920
+Warren 416: Right? We have done that in some of the surveys that we've run.
+
+192
+00:21:00.490 --> 00:21:16.419
+Warren 416: You may also have to go back, which we'll get to in a moment, and tell all those respondents that you accidentally leaked their data, which is also not a good outcome, but it definitely proves that you can go back to respondents. I have quite a few number of authors who've had to do that.
+
+193
+00:21:17.080 --> 00:21:21.600
+Warren 416: through their IRB, go back to their response, say, I accidentally published some of your data.
+
+194
+00:21:22.050 --> 00:21:23.709
+Warren 416: Which gets me to my next point, Keith.
+
+195
+00:21:24.090 --> 00:21:25.440
+Warren 416: Okay, so…
+
+196
+00:21:26.150 --> 00:21:39.990
+Warren 416: All of you are potentially in this boat, right? Whether or not you currently are running an RCT or not. So I showed you the DHS precisely because I find that it's not super obvious the way that it's done.
+
+197
+00:21:40.630 --> 00:21:45.690
+Warren 416: The PSID conditions for use.
+
+198
+00:21:46.970 --> 00:21:52.159
+Warren 416: Are, again, this long list, but it's more obvious that these are clear conditions to use.
+
+199
+00:21:55.310 --> 00:22:00.019
+Warren 416: And again, they're mixing these verbs of, these are public data, right?
+
+200
+00:22:00.810 --> 00:22:06.090
+Warren 416: And yet, they come with restrictions. You are not allowed to transfer the public data.
+
+201
+00:22:07.280 --> 00:22:09.099
+Warren 416: So public data is, I think.
+
+202
+00:22:09.800 --> 00:22:11.599
+Warren 416: The wrong term for these kinds of things.
+
+203
+00:22:12.150 --> 00:22:17.329
+Warren 416: Right? It's the openly shareable data that comes with restrictions, but they're not public.
+
+204
+00:22:17.650 --> 00:22:19.830
+Warren 416: And you have to register to see them.
+
+205
+00:22:21.780 --> 00:22:29.599
+Warren 416: That, in my mind, doesn't make it public, but it's public from their point of view that it doesn't require any special situation.
+
+206
+00:22:30.250 --> 00:22:34.909
+Warren 416: Do you have to prove that you're new. For instance, and this is actually new in there.
+
+207
+00:22:38.580 --> 00:22:41.440
+Warren 416: you're not allowed to use AI in LLMs.
+
+208
+00:22:43.900 --> 00:22:50.720
+Warren 416: But again, I have my issue with the way that this is written, because this just says, the use
+
+209
+00:22:51.140 --> 00:22:52.570
+Warren 416: of LLMs.
+
+210
+00:22:53.720 --> 00:22:55.590
+Warren 416: is private.
+
+211
+00:22:57.190 --> 00:23:04.569
+Warren 416: What they mean is that the training of LLMs should not use their data.
+
+212
+00:23:04.990 --> 00:23:10.160
+Warren 416: Because they're worried about the data being incorporated in a way that is not Admit it's here.
+
+213
+00:23:10.360 --> 00:23:15.320
+Warren 416: But what if I apply an LLM to analyzing the data in a private environment?
+
+214
+00:23:15.580 --> 00:23:21.219
+Warren 416: Nothing is being learned, nothing is being published on it, right? That's not what they have in mind.
+
+215
+00:23:21.810 --> 00:23:22.710
+Warren 416: Right?
+
+216
+00:23:22.960 --> 00:23:37.229
+Warren 416: But again, it's not clearly identified, and in part, this is because of the way that people perceive it. You hear AI, and you think Claw, chat GPT, etc. I have a chat interface, I'm going to upload a data file, tell it to do something with it, which is literally what people do.
+
+217
+00:23:37.940 --> 00:23:41.049
+Warren 416: But that's not the only way to use LLM stresses.
+
+218
+00:23:43.410 --> 00:23:46.250
+Warren 416: Jerry has a question. I can only read part of that.
+
+219
+00:23:47.200 --> 00:23:49.999
+Warren 416: Oh, let me come over here. Can you…
+
+220
+00:23:52.210 --> 00:23:59.499
+Warren 416: Yes, Innocent says, in the situation where you work with primary data, can you share the data after you have de-identified it?
+
+221
+00:23:59.850 --> 00:24:03.180
+Warren 416: We'll get to that in a moment, Ojiri. Excellent question.
+
+222
+00:24:05.630 --> 00:24:10.330
+Warren 416: Okay, so the PSID makes it much clearer And…
+
+223
+00:24:11.370 --> 00:24:14.120
+Warren 416: There is no standard way of communicating this out there.
+
+224
+00:24:14.390 --> 00:24:18.769
+Warren 416: Right, so you just need to know Can I share the data?
+
+225
+00:24:19.940 --> 00:24:23.240
+Warren 416: And you need to keep track of that, and you need to be on the lookout for that.
+
+226
+00:24:25.980 --> 00:24:31.649
+Warren 416: So one of the ways that if you're collecting your own data.
+
+227
+00:24:32.200 --> 00:24:34.980
+Warren 416: that you might be constrained is by that IRB approval.
+
+228
+00:24:35.330 --> 00:24:36.030
+Warren 416: Right.
+
+229
+00:24:38.130 --> 00:24:47.399
+Warren 416: And whatever you ask your respondents to agree to before answering the survey, there's standard ways of sort of getting consent.
+
+230
+00:24:47.620 --> 00:24:49.150
+Warren 416: But consent to what?
+
+231
+00:24:49.530 --> 00:24:50.300
+Warren 416: Right.
+
+232
+00:24:51.170 --> 00:24:54.540
+Warren 416: So again, formulating those consent agreements.
+
+233
+00:24:54.660 --> 00:24:57.469
+Warren 416: is something that you negotiate with your IRBs.
+
+234
+00:24:57.920 --> 00:25:00.790
+Warren 416: That has to be acceptable also to the respondents.
+
+235
+00:25:00.890 --> 00:25:02.359
+Warren 416: Right? Is it…
+
+236
+00:25:02.570 --> 00:25:06.810
+Warren 416: If you were to say, I'm going to publish these data broadly, you would probably get less of a response rate.
+
+237
+00:25:07.100 --> 00:25:10.500
+Warren 416: So there is a balance there as well, but on the other hand.
+
+238
+00:25:10.850 --> 00:25:16.300
+Warren 416: There are some known techniques to make even your response private.
+
+239
+00:25:17.070 --> 00:25:27.949
+Warren 416: We'll touch on that a bit later. Randomized response is one of those, right? Randomized response was developed, how can I elicit from you illegal drug use? Well, I'm going to give you
+
+240
+00:25:28.070 --> 00:25:34.009
+Warren 416: A way to flip a coin, and you're going to tell me something either innocuous or the actual answer.
+
+241
+00:25:34.350 --> 00:25:42.510
+Warren 416: And I won't know which question you had, I will only know your answer. So I don't know if you answered the question, my birthday is the first half of the year, or…
+
+242
+00:25:42.640 --> 00:25:43.839
+Warren 416: I use drugs.
+
+243
+00:25:44.230 --> 00:25:45.530
+Warren 416: Okay.
+
+244
+00:25:45.720 --> 00:25:52.129
+Warren 416: It's a fancy mathematical method of doing so, except many of the usability studies say most of the respondents don't get the math.
+
+245
+00:25:52.320 --> 00:25:57.680
+Warren 416: And so that promise that is embedded in math doesn't actually help increase response rates.
+
+246
+00:25:57.840 --> 00:26:02.380
+Warren 416: They're mostly responding because, I like your face, you're trustworthy, so I'm going to tell you the real answer.
+
+247
+00:26:02.730 --> 00:26:04.869
+Warren 416: Right? And so,
+
+248
+00:26:05.070 --> 00:26:15.989
+Warren 416: There are issues with how you formulate those agreements, how much information you have to convey to respondents, and how much they can absorb on these kinds of things as well. That's absolutely not settled.
+
+249
+00:26:16.400 --> 00:26:19.360
+Warren 416: Right, that's an ongoing discussion as far as I can tell.
+
+250
+00:26:20.080 --> 00:26:27.899
+Warren 416: But those are baked into the data that you have. Those will determine how broadly or not you can share those data.
+
+251
+00:26:28.260 --> 00:26:35.049
+Warren 416: Right? Do you… do they have to be on a specific allowed computer? Do they have to be on…
+
+252
+00:26:35.550 --> 00:26:37.139
+Warren 416: A university computer.
+
+253
+00:26:38.060 --> 00:26:41.139
+Warren 416: That broadens it considerably, but also restricts it.
+
+254
+00:26:42.330 --> 00:26:46.249
+Warren 416: Because it means my collaborator at a different university might not
+
+255
+00:26:46.750 --> 00:26:49.360
+Warren 416: Be able to access it on their computer.
+
+256
+00:26:49.720 --> 00:26:58.510
+Warren 416: Maybe I can send them a laptop, a loaner laptop, or something like that, right? So, all of these are going to affect how you process things, and they're baked in from the start.
+
+257
+00:27:00.630 --> 00:27:01.300
+Warren 416: Probably.
+
+258
+00:27:04.130 --> 00:27:05.030
+Warren 416: So…
+
+259
+00:27:05.260 --> 00:27:14.829
+Warren 416: GDPR, here's one thing that has literally reared its head yesterday as well in the US context, because people are making interpretations of that as well.
+
+260
+00:27:15.870 --> 00:27:21.979
+Warren 416: You might have collected data that is individually public, my CV, my website.
+
+261
+00:27:22.500 --> 00:27:23.230
+Warren 416: Okay.
+
+262
+00:27:23.480 --> 00:27:29.280
+Warren 416: Now you're gonna do that for hundreds of researchers. You're gonna scrape the web, all of their public websites.
+
+263
+00:27:30.430 --> 00:27:41.610
+Warren 416: By GDPR, you've now constructed a database with privacy-enhancing… with privacy-relevant information, and it is now subject to consent. All the data that flowed into it was public.
+
+264
+00:27:41.750 --> 00:27:46.990
+Warren 416: But by constructing a database, That contained personally identifying information.
+
+265
+00:27:48.700 --> 00:27:50.419
+Warren 416: You have to not worry about it.
+
+266
+00:27:50.640 --> 00:27:52.849
+Warren 416: You now have to worry about redistribution.
+
+267
+00:27:54.410 --> 00:27:56.830
+Warren 416: by GDPR, you cannot.
+
+268
+00:27:57.190 --> 00:27:58.919
+Warren 416: In part because…
+
+269
+00:27:59.230 --> 00:28:05.710
+Warren 416: You have collected data and must thus respond to people who want to remove their data from your database.
+
+270
+00:28:06.350 --> 00:28:10.530
+Warren 416: Once you've disseminated publicly, that's no longer possible, so you become a data controller.
+
+271
+00:28:11.080 --> 00:28:15.179
+Warren 416: Right? And so now that database, which might be at the core of your research.
+
+272
+00:28:16.260 --> 00:28:19.380
+Warren 416: Entirely based on public data, but cannot be.
+
+273
+00:28:21.370 --> 00:28:37.809
+Warren 416: So you have to be aware of these things. This was not clear when GDPR was implemented, and it's sort of moved along. I just yesterday had a case with a U.S. institution, with ICPSR. From the same scenario, the authors had collected public data from various sources.
+
+274
+00:28:38.160 --> 00:28:46.489
+Warren 416: And wanted to make it available to future researchers, and we said, well, maybe we don't want it to be, like, broadly available, maybe we want just some registration to happen.
+
+275
+00:28:47.890 --> 00:28:52.820
+Warren 416: Registration is just one level up, but it still would have contained the personally identifying information.
+
+276
+00:28:53.790 --> 00:28:56.960
+Warren 416: And ICPSR's Disclosure Review Board said.
+
+277
+00:28:57.500 --> 00:29:06.930
+Warren 416: We don't want to post it at ICPSR, because we would only do that if you strip out all the personal identity information, which makes the data useful.
+
+278
+00:29:08.970 --> 00:29:16.450
+Warren 416: So… There are considerations about this, that… Emerge from even publicly available.
+
+279
+00:29:19.830 --> 00:29:24.759
+Warren 416: Historically, also, For instance, if you…
+
+280
+00:29:25.330 --> 00:29:34.989
+Warren 416: The DHS surveys, for instance, are typically not panel data sets, right? But the PSID, for instance, is a panel data set. It follows people through time.
+
+281
+00:29:35.270 --> 00:29:43.719
+Warren 416: It has been known for decades that those… being able to follow somebody over time, even if it's just a small sample, is supremely identified.
+
+282
+00:29:44.220 --> 00:29:46.929
+Warren 416: You can find the people wearing the PSIDE.
+
+283
+00:29:47.090 --> 00:29:48.319
+Warren 416: Just set your mind to it.
+
+284
+00:29:50.030 --> 00:29:55.469
+Warren 416: And it has led, for instance, statistical agencies to pull back from publishing panel surveys.
+
+285
+00:29:56.520 --> 00:30:02.730
+Warren 416: So in Canada, for instance, there's a panel survey, I forget what the acronym stands for, SLIT SLIT.
+
+286
+00:30:02.990 --> 00:30:14.349
+Warren 416: And they published the first two waves as a panel, and then stopped doing that, because they determined that even though it's a relatively small fraction of the population, by publishing that third year, it was just too identifying.
+
+287
+00:30:14.560 --> 00:30:19.140
+Warren 416: So, from that moment on, Yes, you can access it directly.
+
+288
+00:30:19.320 --> 00:30:20.860
+Warren 416: You can access the data.
+
+289
+00:30:20.970 --> 00:30:23.180
+Warren 416: But only in a restricted environment.
+
+290
+00:30:24.060 --> 00:30:24.770
+Warren 416: Okay.
+
+291
+00:30:26.060 --> 00:30:35.630
+Warren 416: Statistics Canada has access to a restricted environment in which they can make the data available, so you literally have to go and travel to a Canadian university, be affiliated with a Canadian university, and walk into a locked room.
+
+292
+00:30:36.640 --> 00:30:37.699
+Warren 416: To do so.
+
+293
+00:30:38.270 --> 00:30:43.730
+Warren 416: you probably don't, yourself, have that ability, right? But…
+
+294
+00:30:46.160 --> 00:30:54.700
+Warren 416: But those abilities are actually present in many, many countries as well, so I did have a… Ugandan?
+
+295
+00:30:54.950 --> 00:30:56.710
+Warren 416: Datasets the other day.
+
+296
+00:30:57.070 --> 00:30:58.620
+Warren 416: And,
+
+297
+00:30:58.870 --> 00:31:10.810
+Warren 416: Well, the researchers had originally, years ago, had it on their laptops. Ugandan statistical Office knows that you cannot have that, and they have a secure room in Kampala, and you have to go to that secure room to access the data.
+
+298
+00:31:11.320 --> 00:31:17.870
+Warren 416: Right? So, again, this idea of data ownership and data sovereignty is writ large there.
+
+299
+00:31:18.660 --> 00:31:19.420
+Warren 416: Oh.
+
+300
+00:31:19.530 --> 00:31:22.660
+Warren 416: I'm jumping ahead, but we'll come back to some ways.
+
+301
+00:31:23.800 --> 00:31:26.010
+Warren 416: Okay, so,
+
+302
+00:31:27.710 --> 00:31:37.649
+Warren 416: We actually had an interesting panel discussion a few years ago in a webinar series that I organized. The video is online, so if you want to see a discussion from
+
+303
+00:31:37.980 --> 00:31:46.909
+Warren 416: the head of research at JPAL, so she definitely has written, literally, the book about some of these things. This J-PAL guide, she's one of the co-authors on it, is there.
+
+304
+00:31:47.070 --> 00:31:58.039
+Warren 416: Michelle Meyer was there, and very interestingly, somebody from, something about data frontiers.
+
+305
+00:31:58.170 --> 00:32:06.650
+Warren 416: Talking about, data ethics and data accessibility in a very different way.
+
+306
+00:32:08.010 --> 00:32:10.769
+Warren 416: I'm not gonna give the punchline away, you have points to the video.
+
+307
+00:32:12.690 --> 00:32:15.010
+Warren 416: He has a point, but it's not…
+
+308
+00:32:15.490 --> 00:32:17.140
+Warren 416: Path that we would normally take.
+
+309
+00:32:17.900 --> 00:32:18.670
+Warren 416: Okay.
+
+310
+00:32:21.230 --> 00:32:23.230
+Warren 416: Any questions?
+
+311
+00:32:23.600 --> 00:32:24.780
+Warren 416: That's so fun.
+
+312
+00:32:25.860 --> 00:32:27.100
+Warren 416: What? Yes.
+
+313
+00:32:27.360 --> 00:32:37.730
+Warren 416: how about, I mean, if I share, like, the FLIN dataset for For example, for my co-authors.
+
+314
+00:32:39.100 --> 00:32:50.000
+Warren 416: they don't have the time to go through the… all the steps I had, so, like, I just shared the green dataset, for example, let's say.
+
+315
+00:32:50.190 --> 00:32:51.150
+Warren 416: tall.
+
+316
+00:32:51.380 --> 00:32:56.270
+Warren 416: This is still Northern Road, or… I don't know.
+
+317
+00:32:57.220 --> 00:33:01.410
+Warren 416: That depends on the data provider and what the data use agreement says.
+
+318
+00:33:01.740 --> 00:33:06.879
+Warren 416: Yeah, yeah, yeah. So, what does cleaning mean? So you have to…
+
+319
+00:33:07.810 --> 00:33:12.160
+Warren 416: Think about both the practicalities of it and legality of it.
+
+320
+00:33:12.390 --> 00:33:15.160
+Warren 416: Some data use agreements say, no, you can't.
+
+321
+00:33:15.360 --> 00:33:22.179
+Warren 416: But I've also seen commercial data usage agreements that say, okay, here's our… our stock values, but if you just…
+
+322
+00:33:22.300 --> 00:33:25.039
+Warren 416: Difference, and then apply the log to them.
+
+323
+00:33:25.440 --> 00:33:32.180
+Warren 416: from any two points. That's transformed data you can publish. Right? So some sort of data reduction.
+
+324
+00:33:32.410 --> 00:33:33.180
+Warren 416: bet.
+
+325
+00:33:33.440 --> 00:33:38.220
+Warren 416: From their point of view, Doesn't replace using their data.
+
+326
+00:33:38.630 --> 00:33:44.760
+Warren 416: Right, so if you still want, like, stock trends or something like that, you still have to go back to them, because you can't use the transform data for them.
+
+327
+00:33:45.430 --> 00:33:46.860
+Warren 416: Then they'll say yes.
+
+328
+00:33:48.480 --> 00:33:49.989
+Warren 416: But you should ask them.
+
+329
+00:33:50.900 --> 00:33:54.029
+Warren 416: stuff like DHS, it's not clear.
+
+330
+00:33:54.220 --> 00:33:56.679
+Warren 416: Right? Clearly, the raw data
+
+331
+00:33:57.020 --> 00:34:11.089
+Warren 416: cannot be shared. What does clean data mean? You removed a few records? That's not really that different from the original data. You're still sharing the data on the respondents. Is every single data point on every single individual modified?
+
+332
+00:34:12.330 --> 00:34:18.540
+Warren 416: Now we're getting to a place where it's much clearer, but not super clear.
+
+333
+00:34:18.760 --> 00:34:34.060
+Warren 416: if you're only publishing aggregated statistics out of that, so it's not even individual data anymore, you're just saying, okay, these are all the people in certain counties or stuff like that, then in principle, yes, but again, you have to worry about re-identification. We'll get to that in a moment.
+
+334
+00:34:35.360 --> 00:34:42.650
+Warren 416: So the answer is, you have to think about it. It's not automatically just because it's modified, transformed in some way.
+
+335
+00:34:43.370 --> 00:34:45.239
+Warren 416: Is it releasable by then?
+
+336
+00:34:48.880 --> 00:34:52.279
+Warren 416: But part of the way to make data shareable is to modify.
+
+337
+00:34:53.530 --> 00:34:57.569
+Warren 416: In certain ways, so we'll get to that. There was a question in the chat.
+
+338
+00:34:59.350 --> 00:35:13.899
+Warren 416: I think Zakayo had a question. Yes, he wrote, suppose the ethical approval requires a DTA before data can be shared outside the country, and you have an external research partner, and they have access to the shared data collection platform, like SurveyCTO Server.
+
+339
+00:35:13.900 --> 00:35:23.280
+Warren 416: Would this access already be considered data sharing or data transfer requiring a DTA? If they can download from SurveyCTO, it's data sharing. Yeah.
+
+340
+00:35:26.080 --> 00:35:42.689
+Warren 416: Yeah. I bet that situation is… that's a good question. I bet that situation is washed over quite a lot, because you have this background CTO, people don't necessarily think as carefully about somebody who can get into that if they don't intend to go in and download it. Again, it's…
+
+341
+00:35:42.710 --> 00:35:46.229
+Warren 416: who owns the data that's on the service CTO servers.
+
+342
+00:35:47.830 --> 00:35:49.410
+Warren 416: You have to worry about that.
+
+343
+00:35:53.240 --> 00:35:54.070
+Warren 416: Okay.
+
+344
+00:35:55.980 --> 00:36:01.869
+Warren 416: So in the same way that some of you had forgotten that DHS is not shareable.
+
+345
+00:36:02.370 --> 00:36:17.259
+Warren 416: You might also have forgotten what's actually in your data, the clean data that you might actually think that you're sharing, right? So you… I've yet said how you can make data de-identified, but you might have thought, okay, I've de-identified my data, and…
+
+346
+00:36:17.630 --> 00:36:19.140
+Warren 416: Now I can share it.
+
+347
+00:36:19.680 --> 00:36:21.350
+Warren 416: Is that actually true?
+
+348
+00:36:33.900 --> 00:36:37.800
+Warren 416: But it hasn't been completely updated.
+
+349
+00:36:39.390 --> 00:36:44.590
+Warren 416: So here's a comment. Maybe you can read it.
+
+350
+00:36:46.010 --> 00:36:52.529
+Warren 416: that I got the other day from an author that we were about to publish their deposit, but we had, sort of, some questions.
+
+351
+00:36:52.770 --> 00:36:56.260
+Warren 416: One of the questions we had had and sent to them was.
+
+352
+00:36:56.460 --> 00:37:05.170
+Warren 416: We have some indications that there might be personally identifying information, PII, in your deposit. Can you confirm that there is no such data in there?
+
+353
+00:37:06.480 --> 00:37:16.670
+Warren 416: And in seeing that, I've been playing around with, an LLM-based PII check.
+
+354
+00:37:17.450 --> 00:37:28.339
+Warren 416: which is run on my computer without going to the cloud, so this is one instance of using LLMs that are not being trained on the data and that are not sending the data out anywhere, it's on my computer.
+
+355
+00:37:29.380 --> 00:37:31.289
+Warren 416: And I sent them that checklist.
+
+356
+00:37:32.750 --> 00:37:39.179
+Warren 416: And they came back and said, okay, thank you, we have now actually removed the PII that you found.
+
+357
+00:37:40.210 --> 00:37:45.460
+Warren 416: And if you look at these kinds of things, that they removed.
+
+358
+00:37:48.500 --> 00:37:52.739
+Warren 416: name, location data, and subject IDs.
+
+359
+00:37:55.390 --> 00:38:03.430
+Warren 416: So the LLM-based one found the location data based on the content. There's an older
+
+360
+00:38:03.950 --> 00:38:12.319
+Warren 416: JPEL and IPA created this that simply looks at variable names. They would probably have found the name and location data if the variable name are such bad.
+
+361
+00:38:13.870 --> 00:38:17.209
+Warren 416: Those should never have been in there, because they weren't actually used in the analysis.
+
+362
+00:38:17.860 --> 00:38:25.109
+Warren 416: And they deleted a bunch of unused files that were not even used anything else, but that contained personally identifying them.
+
+363
+00:38:26.170 --> 00:38:26.870
+Warren 416: Okay.
+
+364
+00:38:28.040 --> 00:38:31.459
+Warren 416: So this is at the very end, the article's about to be published.
+
+365
+00:38:32.480 --> 00:38:36.659
+Warren 416: We've run the checks that the code produces the output that's in there.
+
+366
+00:38:37.270 --> 00:38:43.140
+Warren 416: But normally, we don't check what else is in the data, because Why wouldn't we?
+
+367
+00:38:43.370 --> 00:38:52.429
+Warren 416: Right? But then we do serve a standard check on this, and then we have this newer LLM one, which is really good at looking at the contents of these kinds of things. If it looks like
+
+368
+00:38:53.010 --> 00:38:56.809
+Warren 416: Latitude and longitude, it flags it for review.
+
+369
+00:38:58.680 --> 00:39:07.130
+Warren 416: So… The question is, how do you know that you have data that you cannot share, even internally?
+
+370
+00:39:07.950 --> 00:39:09.809
+Warren 416: Is a very important question.
+
+371
+00:39:10.290 --> 00:39:17.509
+Warren 416: Right? What are the variables in the dataset that I collected from my RCT, or that I merged in some administrative data into the survey?
+
+372
+00:39:18.750 --> 00:39:24.380
+Warren 416: Those columns, those variables, Can I share them? Should they still be in there?
+
+373
+00:39:25.370 --> 00:39:26.380
+Warren 416: Right?
+
+374
+00:39:26.680 --> 00:39:31.570
+Warren 416: So, I strongly encourage you to read the JPEL guide for de-identification.
+
+375
+00:39:32.510 --> 00:39:38.629
+Warren 416: Part of which has simply to do with when do you actually do the de-identification?
+
+376
+00:39:39.000 --> 00:39:43.470
+Warren 416: Well, it happens the moment you download it from SurveyCTO or Qualtrics, etc.
+
+377
+00:39:44.850 --> 00:39:51.529
+Warren 416: And then, conceptually, you just think of, here's the stuff that I download. I'm gonna have to have this on…
+
+378
+00:39:51.710 --> 00:39:58.729
+Warren 416: A secure computer in my lab, or wherever it's authorized to sit with all its identifying information on there.
+
+379
+00:40:00.480 --> 00:40:02.539
+Warren 416: And now for my analysis.
+
+380
+00:40:02.810 --> 00:40:06.109
+Warren 416: I'm gonna only remove from that database.
+
+381
+00:40:07.020 --> 00:40:10.540
+Warren 416: I'm going to extract only the variables that I think I'm going to use.
+
+382
+00:40:10.700 --> 00:40:13.680
+Warren 416: Rather than, here's the whole thing, I'm just gonna…
+
+383
+00:40:13.900 --> 00:40:16.459
+Warren 416: Run aggression with only the variables I want to use.
+
+384
+00:40:16.690 --> 00:40:19.600
+Warren 416: Right? So even though you have access to all of them.
+
+385
+00:40:20.600 --> 00:40:23.480
+Warren 416: Think of it as, I'm only going to
+
+386
+00:40:23.650 --> 00:40:27.460
+Warren 416: extract the variables that I think are necessary.
+
+387
+00:40:28.010 --> 00:40:31.449
+Warren 416: Ideally, there's even an intermediate stage to this.
+
+388
+00:40:32.030 --> 00:40:40.380
+Warren 416: You have to fully… privacy, pII-laden data sitting there.
+
+389
+00:40:41.430 --> 00:40:44.050
+Warren 416: And then you have a de-identified file sitting there.
+
+390
+00:40:44.170 --> 00:40:52.110
+Warren 416: It has taken out all of the names and clearly survey identifiers, and the geolocation data are somewhere separate.
+
+391
+00:40:52.340 --> 00:40:53.190
+Warren 416: Right?
+
+392
+00:40:53.440 --> 00:41:00.220
+Warren 416: And so now, by default, you're going to access this de-identification. There isn't even any possibility of accidentally grabbing the names.
+
+393
+00:41:01.720 --> 00:41:05.609
+Warren 416: And then, if it turns out that your research does require some of the other data.
+
+394
+00:41:06.140 --> 00:41:10.730
+Warren 416: then you can add them back in. You can ask yourself for permission to add them back in.
+
+395
+00:41:11.800 --> 00:41:13.130
+Warren 416: In a way that…
+
+396
+00:41:13.380 --> 00:41:19.140
+Warren 416: you have to ask DHS to access the geocoded data separately from the less sensitive survey data.
+
+397
+00:41:19.440 --> 00:41:21.180
+Warren 416: Okay, so again.
+
+398
+00:41:21.560 --> 00:41:29.020
+Warren 416: flip the table around. You are a data provider. You are responsible for protecting the privacy of the people that are reflected in your data.
+
+399
+00:41:29.180 --> 00:41:30.780
+Warren 416: What would you tell?
+
+400
+00:41:30.900 --> 00:41:34.129
+Warren 416: Yourself, the researcher, as you, the data custodian.
+
+401
+00:41:34.260 --> 00:41:40.260
+Warren 416: If you were to do this. And if you mentally keep that separation up in some labs, that might be a physical separation.
+
+402
+00:41:40.380 --> 00:41:50.960
+Warren 416: I might have… since Creed might be the data manager, and I'm the researcher, and I have to ask her, can you… can I access this data? And there's going to be a debate, maybe going all the way back to the IRB, can we use this data, etc.
+
+403
+00:41:51.210 --> 00:41:52.200
+Warren 416: Right?
+
+404
+00:41:52.940 --> 00:41:59.130
+Warren 416: It doesn't have to be much hassle, because if you build that in from the start, like, this can be you having conversation with yourself.
+
+405
+00:41:59.950 --> 00:42:02.409
+Warren 416: But the data are separate, there's no accidental.
+
+406
+00:42:02.740 --> 00:42:03.900
+Warren 416: Intentional.
+
+407
+00:42:04.610 --> 00:42:06.899
+Warren 416: Sharing of that data with yourself and research groups.
+
+408
+00:42:07.690 --> 00:42:08.380
+Warren 416: Okay.
+
+409
+00:42:09.710 --> 00:42:17.569
+Warren 416: How can you know which might be other sensitive data in there is to run these kinds of… of checkers, so,
+
+410
+00:42:18.220 --> 00:42:23.150
+Warren 416: This is actually the link, I should have probably put this… Into that.
+
+411
+00:42:25.450 --> 00:42:38.830
+Warren 416: I'm actually not logged into… I'll send this around later on. So there's a link to the LLM-based PII checker that the folks at the Institute for Application have developed that we've started to use.
+
+412
+00:42:39.330 --> 00:42:44.720
+Warren 416: Here's their article about how often, actually, data have leaked into the social science research.
+
+413
+00:42:44.860 --> 00:42:46.080
+Warren 416: Way too often.
+
+414
+00:42:46.690 --> 00:42:55.450
+Warren 416: And so they've systematically gone through and sampled stuff and reached out to authors and also documented how long it takes authors to respond to these kinds of things.
+
+415
+00:42:55.660 --> 00:43:01.989
+Warren 416: Which is why I know that it can be super painful for authors to have to go back to their IRB and to their respondents to declare
+
+416
+00:43:02.100 --> 00:43:06.070
+Warren 416: Hey, we accidentally published your data for 5 years on the internet.
+
+417
+00:43:06.450 --> 00:43:09.879
+Warren 416: And there's 10 people who downloaded.
+
+418
+00:43:10.330 --> 00:43:16.589
+Warren 416: So… That's… So that's a key part.
+
+419
+00:43:17.240 --> 00:43:22.600
+Warren 416: When can you run this?
+
+420
+00:43:22.920 --> 00:43:27.010
+Warren 416: Well… I guess I need to…
+
+421
+00:43:27.400 --> 00:43:31.889
+Warren 416: write up a bit on what I did, but it's really not super complicated.
+
+422
+00:43:38.820 --> 00:43:44.879
+Warren 416: More or less, you need Python, you need software called Olama, which is super easy to set up.
+
+423
+00:43:45.760 --> 00:43:53.210
+Warren 416: and you need enough RAM, Runs a lot faster if you have a GPU.
+
+424
+00:43:53.440 --> 00:43:57.770
+Warren 416: But it can run without a GPU, so you can run this in principle on any computer.
+
+425
+00:44:00.120 --> 00:44:01.879
+Warren 416: And then you…
+
+426
+00:44:03.180 --> 00:44:10.660
+Warren 416: Use one of the offline models, and all of this just runs on your computer, and you feed it the dataset, or an entire folder of stuff.
+
+427
+00:44:10.920 --> 00:44:19.109
+Warren 416: And it will chug away and do an assessment of whether or not this might be, or probably is, personally identifying information.
+
+428
+00:44:20.820 --> 00:44:25.120
+Warren 416: Takes a bit to set up. You know, first time around, you'll spend a few hours on it.
+
+429
+00:44:25.960 --> 00:44:28.180
+Warren 416: Your research project's taking years.
+
+430
+00:44:28.850 --> 00:44:31.249
+Warren 416: And this prevents a lot of hassle down the road.
+
+431
+00:44:31.570 --> 00:44:33.770
+Warren 416: So it's a worthwhile exercise to do.
+
+432
+00:44:37.240 --> 00:44:41.870
+Warren 416: I wasn't on top of it enough to…
+
+433
+00:44:42.080 --> 00:44:56.520
+Warren 416: create what the output looks like, but literally get an Excel spreadsheet, and it has every variable that it found on every dataset that's sitting in your folder, and has categorized them by, this is not PII, this may be PII, this is definitely PII.
+
+434
+00:44:56.890 --> 00:44:59.520
+Warren 416: And you can filter on that, and then make decisions on it.
+
+435
+00:45:04.660 --> 00:45:06.609
+Warren 416: So now that you've identified it.
+
+436
+00:45:07.900 --> 00:45:09.059
+Warren 416: What do you do with it?
+
+437
+00:45:10.290 --> 00:45:11.520
+Warren 416: Okay.
+
+438
+00:45:13.190 --> 00:45:23.469
+Warren 416: So the standard in most of these things is the JPAL guide and similar things that I've pointed to earlier about de-identification. Strip out what's clearly personally identifying information.
+
+439
+00:45:24.750 --> 00:45:25.750
+Warren 416: Right.
+
+440
+00:45:26.440 --> 00:45:34.530
+Warren 416: So your analysis data set, unless you actually require names to, I don't know, infer language knowledge or ethnicity or something like that.
+
+441
+00:45:34.900 --> 00:45:39.079
+Warren 416: it shouldn't have names on it, right? So your de-identified data, strip out the names.
+
+442
+00:45:40.380 --> 00:45:49.180
+Warren 416: Careful because some of the things that the PII checker has found is because it looks at the content of stuff. It has found things like
+
+443
+00:45:50.870 --> 00:46:01.270
+Warren 416: who takes care of your children while you're at work, people tend to respond with my grandmother, my uncle, or something like that, but some of them might say Joe Smith living next door.
+
+444
+00:46:02.030 --> 00:46:07.349
+Warren 416: Right? So the content itself will feel that you intended to be innocuous, might not itself be innocuous.
+
+445
+00:46:08.140 --> 00:46:10.400
+Warren 416: Be aware of that.
+
+446
+00:46:10.950 --> 00:46:16.210
+Warren 416: And, I mean, these are things that you don't predict, right? It's…
+
+447
+00:46:17.000 --> 00:46:20.709
+Warren 416: You have a free-form field that people can write stuff into.
+
+448
+00:46:21.400 --> 00:46:25.970
+Warren 416: then… People might write stuff into it.
+
+449
+00:46:27.260 --> 00:46:32.040
+Warren 416: If you have any questions about this survey that I didn't answer, please call me at this phone number, right?
+
+450
+00:46:32.440 --> 00:46:34.820
+Warren 416: That's literally one of the examples we've seen.
+
+451
+00:46:35.910 --> 00:46:46.990
+Warren 416: People want to be nice, but that means that they're actually providing some sort of information, okay? So data de-identification might mean removing all the variables that are strictly names.
+
+452
+00:46:47.390 --> 00:46:49.619
+Warren 416: But like I said, you can also flip it around.
+
+453
+00:46:49.830 --> 00:46:54.970
+Warren 416: And just include in your research is the variables that you know are not.
+
+454
+00:46:55.360 --> 00:46:56.040
+Warren 416: Okay.
+
+455
+00:46:56.790 --> 00:47:03.890
+Warren 416: If I'm not writing on childcare in this particular paper, then I don't need the childcare variable at all. It shouldn't even accidentally be in there. I don't need it.
+
+456
+00:47:04.120 --> 00:47:05.389
+Warren 416: So I don't select it.
+
+457
+00:47:05.930 --> 00:47:06.640
+Warren 416: Okay.
+
+458
+00:47:09.580 --> 00:47:20.139
+Warren 416: If you actually want to make the data more available, beyond straight-up Gitification, now you're going to get into what can I do to modify the data in order to do that.
+
+459
+00:47:20.690 --> 00:47:21.490
+Warren 416: Okay.
+
+460
+00:47:21.840 --> 00:47:30.859
+Warren 416: I don't actually know what, say, the DHS surveys have done to Make their surveys be shareable.
+
+461
+00:47:31.360 --> 00:47:37.729
+Warren 416: It's not super clear. What I do know is, for instance, that for some of their geographic variables, they have done some of these
+
+462
+00:47:38.150 --> 00:47:41.030
+Warren 416: anonymization methods, right?
+
+463
+00:47:41.500 --> 00:47:49.180
+Warren 416: that take de-identified data and make it actually anonymous, anonymous in the sense that I can't assign it to any particular person.
+
+464
+00:47:49.940 --> 00:48:03.479
+Warren 416: by, for instance, aggregating into cells. And so there's techniques to aggregate geographic variables, say, into hexagons that are larger than what's there, right? So you're… you're going from pinpoint resolution to something large.
+
+465
+00:48:04.770 --> 00:48:11.010
+Warren 416: It's not necessarily… Perfect.
+
+466
+00:48:12.300 --> 00:48:19.089
+Warren 416: So again, there's an entire literature on how do you actually make that perfect, because think of… I've got these big hexagons.
+
+467
+00:48:19.670 --> 00:48:32.410
+Warren 416: But in this arid part of my country, there's only one farm in there, right? So even if I don't know the precise address, if I go back and look at the map, there is only one farm in there, so even making it coarser, but only having one response.
+
+468
+00:48:32.490 --> 00:48:48.770
+Warren 416: up with that. So, often these have an additional criteria in terms of number of entities in the cell, right? You might want to say, by all measures, there's… has to be 10 farms in the cell for me to publish the cell. If not, I'm going to make it large.
+
+469
+00:48:49.240 --> 00:48:54.910
+Warren 416: Some of these can be formalized in things like K anonymity.
+
+470
+00:48:55.860 --> 00:48:59.880
+Warren 416: L diversity, all the way through to differential privacy.
+
+471
+00:49:00.750 --> 00:49:08.649
+Warren 416: I just want to spend a bit of time on this, because it sort of, is a nice sample.
+
+472
+00:49:15.740 --> 00:49:21.230
+Warren 416: Let's see if this should work. Say no.
+
+473
+00:49:22.070 --> 00:49:28.029
+Warren 416: So when you go to that page, you can run this too. It works with a free Google Colab account.
+
+474
+00:49:28.350 --> 00:49:35.200
+Warren 416: And the raw data here is meant to have a bunch of things, like names.
+
+475
+00:49:35.380 --> 00:49:41.509
+Warren 416: Ages of a certain range, zip codes, And some sort of diagnosis.
+
+476
+00:49:44.810 --> 00:49:54.490
+Warren 416: So now, imagine… That what you are interested in is to find some relationship between the diagnosis local influences
+
+477
+00:49:54.590 --> 00:49:55.959
+Warren 416: And age and gender.
+
+478
+00:49:58.590 --> 00:50:02.280
+Warren 416: Well… This is Cornell's zip code.
+
+479
+00:50:02.760 --> 00:50:08.510
+Warren 416: There's two values in there, because in Ithaca, there are two zip codes.
+
+480
+00:50:08.680 --> 00:50:11.180
+Warren 416: One which is Cornell, and one which is the rest.
+
+481
+00:50:12.130 --> 00:50:13.170
+Warren 416: Okay.
+
+482
+00:50:14.290 --> 00:50:18.359
+Warren 416: I might… If I only have the first names.
+
+483
+00:50:18.490 --> 00:50:20.980
+Warren 416: And I want to analyze by gender.
+
+484
+00:50:21.220 --> 00:50:25.590
+Warren 416: I'm going to have to have access to the names to infer gender.
+
+485
+00:50:26.380 --> 00:50:29.510
+Warren 416: Right, so I can't strip them out, if that's what I want to do.
+
+486
+00:50:34.500 --> 00:50:40.830
+Warren 416: So… There are, in general, two techniques to…
+
+487
+00:50:41.290 --> 00:50:55.749
+Warren 416: to simple anonymization. One is called generalization, or aggregation, or things like that, right? What I just described in terms of geographic variables is a method of generalization or aggregation. I'm going from the specific geocoordinates
+
+488
+00:50:55.920 --> 00:50:59.009
+Warren 416: To either a political entity, a county, a state.
+
+489
+00:50:59.170 --> 00:51:06.719
+Warren 416: or some arbitrary geographic unit, the hexagon of a certain type, okay? So I'm aggregating into larger entities.
+
+490
+00:51:07.950 --> 00:51:24.939
+Warren 416: I'm not necessarily creating a new statistic for that entity, right? I'm not going to then say, oh, the 10 people in this all have a single thing. That's collapsing the data into these kinds of things. I'm just assigning attributes to them that are at that aggregated level for the particular cell. I'll show you what that looks like in a moment.
+
+491
+00:51:26.250 --> 00:51:27.729
+Warren 416: The other one is suppression.
+
+492
+00:51:28.150 --> 00:51:28.930
+Warren 416: Right?
+
+493
+00:51:29.180 --> 00:51:33.780
+Warren 416: I might actually remove certain people or values from the data.
+
+494
+00:51:34.000 --> 00:51:42.769
+Warren 416: either row-wise or just certain cells, because if I leave them in, it almost certainly will describe that person.
+
+495
+00:51:43.620 --> 00:51:45.530
+Warren 416: Okay? And again.
+
+496
+00:51:45.720 --> 00:51:57.849
+Warren 416: if you think of aggregated data, say I'm producing statistics by the county level, that county that has only one farm in it, there's no way I can produce a statistic that's not revealing of the owner of that farm.
+
+497
+00:51:58.240 --> 00:51:59.570
+Warren 416: then I might just not.
+
+498
+00:51:59.700 --> 00:52:00.590
+Warren 416: have that.
+
+499
+00:52:03.230 --> 00:52:05.529
+Warren 416: Suppression can actually be
+
+500
+00:52:05.760 --> 00:52:15.459
+Warren 416: a good statistical technique, right? Because you tend to want to make inferences based on large numbers of people, not small counts.
+
+501
+00:52:15.720 --> 00:52:22.819
+Warren 416: So, if you map Say, outliers that have an influence on your data.
+
+502
+00:52:24.200 --> 00:52:32.090
+Warren 416: If you do proper statistics and control for those, you would remove those outliers that inordinately influence your results.
+
+503
+00:52:32.670 --> 00:52:37.479
+Warren 416: They tend to be the same that would drop out of suppression.
+
+504
+00:52:38.270 --> 00:52:44.689
+Warren 416: Not always, but most… mostly. Okay, so there may be statistical reasons to do this.
+
+505
+00:52:44.940 --> 00:52:45.650
+Warren 416: Okay.
+
+506
+00:52:46.270 --> 00:52:53.359
+Warren 416: So, if I sort of generalize this I can, for instance, say, Let's do 10-year intervals.
+
+507
+00:52:54.120 --> 00:53:00.319
+Warren 416: Let's… Generalize the zip code, So that I blank out the last digit.
+
+508
+00:53:01.870 --> 00:53:02.650
+Warren 416: Right?
+
+509
+00:53:02.910 --> 00:53:06.200
+Warren 416: Which means I'm collapsing here two zip codes into one.
+
+510
+00:53:08.530 --> 00:53:09.860
+Warren 416: And I dropped the name.
+
+511
+00:53:10.000 --> 00:53:12.249
+Warren 416: So now I can't do gender analysis.
+
+512
+00:53:16.800 --> 00:53:24.549
+Warren 416: What I can then do for what's called k-anonymity is I can see now, now that I've collapsed this, is this sufficient?
+
+513
+00:53:25.640 --> 00:53:26.390
+Warren 416: Right?
+
+514
+00:53:27.970 --> 00:53:36.470
+Warren 416: what KnMe looks like, it looks like how many… if I do all the possible combinations of stuff that's in the data, according to the variables that I have in front of me.
+
+515
+00:53:37.090 --> 00:53:45.549
+Warren 416: how many entities, in this case people, could be farms, could be enterprise, etc, are within these cells that I can generate?
+
+516
+00:53:45.760 --> 00:53:55.230
+Warren 416: Right? This is now the greatest level of detail that I can generate. I have one zip code and two age groups, so I can only generate two groups, and each of them contains four people.
+
+517
+00:53:56.700 --> 00:54:03.460
+Warren 416: So for any person that I might plunk into this, I… I'm not sure Who they are.
+
+518
+00:54:03.570 --> 00:54:04.290
+Warren 416: Right?
+
+519
+00:54:04.450 --> 00:54:06.349
+Warren 416: What's the right level of K?
+
+520
+00:54:06.600 --> 00:54:08.349
+Warren 416: It's a conversation with the IRB.
+
+521
+00:54:08.860 --> 00:54:09.570
+Warren 416: Right?
+
+522
+00:54:10.880 --> 00:54:17.299
+Warren 416: But of course, I've now vastly reduced the variability in my data as well, right?
+
+523
+00:54:18.550 --> 00:54:22.790
+Warren 416: I don't have gender, I have fairly large age groups.
+
+524
+00:54:23.650 --> 00:54:33.779
+Warren 416: I still have the diagnosis, because that's my variable of interest, and I don't… in this particular case, I've done a minor modification to the zip code, so if I were to introduce
+
+525
+00:54:34.200 --> 00:54:41.560
+Warren 416: environmental factors, I might still have enough across an entire data set to serve. So if I collapse every two, then that's fine.
+
+526
+00:54:41.840 --> 00:54:42.510
+Warren 416: Right.
+
+527
+00:54:44.050 --> 00:54:47.090
+Warren 416: So, you can play around with this, right?
+
+528
+00:54:47.700 --> 00:54:49.610
+Warren 416: What if the age been?
+
+529
+00:54:49.740 --> 00:54:54.109
+Warren 416: Sorry, we were earlier at… Oh, I need to run this.
+
+530
+00:54:56.530 --> 00:55:02.489
+Warren 416: Right, so, age bin of 10, and I'm asking one digit of the zip code that generates what we had.
+
+531
+00:55:03.010 --> 00:55:10.340
+Warren 416: If my target is this K equals 2 and I get 4, we're good by what's called K2 anonymity.
+
+532
+00:55:10.830 --> 00:55:22.700
+Warren 416: Right? For every aggregation I do, I have at least two individuals in there, which gives me some 50-50 chance that if I think that's you, I still won't know what your diagnosis is with a 50-50 chance.
+
+533
+00:55:22.830 --> 00:55:23.590
+Warren 416: Okay.
+
+534
+00:55:24.140 --> 00:55:28.660
+Warren 416: What happens if I increase the detail in terms of the age groups?
+
+535
+00:55:30.410 --> 00:55:35.760
+Warren 416: I now am going to have more age groups. I'm still not increasing the number of zip codes.
+
+536
+00:55:35.940 --> 00:55:39.000
+Warren 416: Now my group size is down to 2.
+
+537
+00:55:40.160 --> 00:55:44.590
+Warren 416: Right? So if I want this to be K4 anonymity, I'll fail.
+
+538
+00:55:45.320 --> 00:55:47.450
+Warren 416: Still K2, I'm still okay.
+
+539
+00:55:47.790 --> 00:55:52.060
+Warren 416: Okay? So these K-anonymity things have been out there for a while.
+
+540
+00:55:52.620 --> 00:55:56.740
+Warren 416: they are… A good compromise between
+
+541
+00:55:57.480 --> 00:56:01.570
+Warren 416: Modifying the data in a way that you can create a public use data set.
+
+542
+00:56:01.860 --> 00:56:06.799
+Warren 416: and preserving some anonymity. It still has its weaknesses. There's a litany of what
+
+543
+00:56:07.170 --> 00:56:26.149
+Warren 416: some in the literature I've called a litany of letters that have come afterwards, L diversity and M-something and T something, that computer scientists have come up with. Once they're on a tangent, they go with that, that have shown weaknesses, so this is not perfect. You can still find situations where you can recover some things.
+
+544
+00:56:26.500 --> 00:56:27.210
+Warren 416: Right?
+
+545
+00:56:28.030 --> 00:56:30.349
+Warren 416: Elderstein T-Clustness.
+
+546
+00:56:30.610 --> 00:56:33.470
+Warren 416: Okay? And…
+
+547
+00:56:33.880 --> 00:56:41.750
+Warren 416: L diverse and T-Closeness have been found to have weaknesses, so computer scientists love to sort of pick holes into these things and find situations where it fails.
+
+548
+00:56:42.020 --> 00:56:44.169
+Warren 416: Okay. Is it good enough?
+
+549
+00:56:44.670 --> 00:56:47.409
+Warren 416: Or not, that's a decision that you have to make.
+
+550
+00:56:48.030 --> 00:56:52.519
+Warren 416: Okay, so you can play around with this, you can modify to use your own data.
+
+551
+00:56:56.250 --> 00:56:58.740
+Warren 416: There is also differential privacy.
+
+552
+00:56:59.690 --> 00:57:07.679
+Warren 416: Which does actually guarantee that you cannot identify people with up to a certain very small probability.
+
+553
+00:57:08.030 --> 00:57:11.400
+Warren 416: Right? It's a mathematical guarantee if you do it correctly.
+
+554
+00:57:12.300 --> 00:57:16.549
+Warren 416: I've linked here two articles and a video.
+
+555
+00:57:17.070 --> 00:57:18.390
+Warren 416: the video…
+
+556
+00:57:25.600 --> 00:57:30.109
+Warren 416: Essentially demonstrates how differential privacy works, okay?
+
+557
+00:57:31.320 --> 00:57:36.749
+Warren 416: It works by… Modifying just a tiny bit.
+
+558
+00:57:37.800 --> 00:57:40.649
+Warren 416: The data, but in a very principled way.
+
+559
+00:57:41.410 --> 00:57:42.140
+Warren 416: Right?
+
+560
+00:57:43.410 --> 00:57:52.350
+Warren 416: The downside is that the principled way, Might actually make the data be useless.
+
+561
+00:57:53.620 --> 00:57:58.680
+Warren 416: So if you actually want to be sure that nobody under no circumstances Ken.
+
+562
+00:57:59.150 --> 00:58:01.369
+Warren 416: Being re-identified.
+
+563
+00:58:03.640 --> 00:58:06.599
+Warren 416: Then you might actually have some very coarse data.
+
+564
+00:58:09.190 --> 00:58:14.550
+Warren 416: That's because every cell gets noise added to it in the simplest implementation.
+
+565
+00:58:15.010 --> 00:58:16.950
+Warren 416: Okay? And…
+
+566
+00:58:18.100 --> 00:58:24.060
+Warren 416: Even if there's a ton of people in that cell, you are still going to modify everybody's values, right, by some amount.
+
+567
+00:58:24.930 --> 00:58:34.680
+Warren 416: So it's a very well-done video for a very complex thing. It's very good, but it sort of illustrates this privacy and accuracy
+
+568
+00:58:35.340 --> 00:58:36.230
+Warren 416: trade-off.
+
+569
+00:58:36.700 --> 00:58:45.250
+Warren 416: That all of these methods have, right? You can have perfect accuracy up to whatever errors might be in your survey, which is not trivial to start with.
+
+570
+00:58:45.380 --> 00:58:47.739
+Warren 416: Right? And the data are not private.
+
+571
+00:58:48.250 --> 00:58:56.639
+Warren 416: Or you can have perfectly private data, but then it becomes highly inaccurate. And somewhere along that line is something that you want to do.
+
+572
+00:58:57.260 --> 00:58:57.990
+Warren 416: Okay.
+
+573
+00:59:00.290 --> 00:59:01.809
+Warren 416: So I'll let you watch that.
+
+574
+00:59:05.820 --> 00:59:07.900
+Warren 416: We're actually working on an article
+
+575
+00:59:08.420 --> 00:59:10.939
+Warren 416: That is trying to illustrate that this is not easy.
+
+576
+00:59:11.100 --> 00:59:13.090
+Warren 416: If you want to do it in a principled way.
+
+577
+00:59:15.290 --> 00:59:23.759
+Warren 416: We started also from the principle, not that there's a ton of papers that have personal identifying information in there, but that there are a ton of papers that probably haven't done much
+
+578
+00:59:24.160 --> 00:59:33.299
+Warren 416: in their RCT survey collected data to… they might have de-identified it and moved on, and we know that de-identification is not perfect. So what can we do
+
+579
+00:59:33.430 --> 00:59:38.319
+Warren 416: To modify the data, and… Maintain its utility.
+
+580
+00:59:39.250 --> 00:59:48.930
+Warren 416: Right? I want to learn from these RCTs, I want to generalize them and do something. Is the inference that I draw from my RCT going to be affected
+
+581
+00:59:49.290 --> 00:59:55.820
+Warren 416: By me working with Privatized, or rather, anonymized data.
+
+582
+00:59:56.550 --> 00:59:59.890
+Warren 416: And what does that imply for transparency?
+
+583
+01:00:00.720 --> 01:00:12.680
+Warren 416: Right? Because now you need to think, if you're using DHS, you are using post-anonymization data. It has been modified to some extent. You take it as given that the conclusions you come to with a DHS are valid.
+
+584
+01:00:15.000 --> 01:00:18.300
+Warren 416: That's a data producer, a DHS program doing this.
+
+585
+01:00:19.520 --> 01:00:21.229
+Warren 416: It may not always be true.
+
+586
+01:00:22.140 --> 01:00:25.169
+Warren 416: Some of this might be artifacts of the anonymization process.
+
+587
+01:00:25.310 --> 01:00:26.020
+Warren 416: Right.
+
+588
+01:00:26.780 --> 01:00:32.650
+Warren 416: So, we go through this example of, here's an RCT with 1,000 people in Sierra Leone.
+
+589
+01:00:33.510 --> 01:00:43.610
+Warren 416: Can we apply these modern, differentially private, or quasi-differentially private methods, and still come to the same conclusions if we run the analysis on the same thing?
+
+590
+01:00:44.670 --> 01:00:51.400
+Warren 416: Could we republish this RCT? It's not ours, it's somebody else's. Could we republish this RCT?
+
+591
+01:00:51.590 --> 01:00:54.620
+Warren 416: With only the… Protect the data.
+
+592
+01:00:55.780 --> 01:01:07.340
+Warren 416: And then the confidential data stays wherever it was, right? So our conclusions are based on the protected data. Everybody else can also get the protected data and can redo our analysis. Are we going to come to the same conclusion?
+
+593
+01:01:13.400 --> 01:01:19.330
+Warren 416: So that's… I've identified that there's data out there, I still want to make all the things public.
+
+594
+01:01:22.050 --> 01:01:27.420
+Warren 416: if I impose on myself the same rules that I would impose on anybody else, so that we see the same thing.
+
+595
+01:01:28.040 --> 01:01:31.429
+Warren 416: Can we come to the same conclusions? It's not a trivial matter.
+
+596
+01:01:33.340 --> 01:01:36.860
+Warren 416: Some of the comments we've gotten back from referees are, why don't you just
+
+597
+01:01:37.250 --> 01:01:56.580
+Warren 416: embed the privacy protection in the survey, right from the start. Going back to the randomized survey, randomized question, randomized response part of it, which, as it turns out, exposed. Differential privacy was sort of developed in the early 2000s. Randomized response goes back to the 60s.
+
+598
+01:01:57.130 --> 01:02:04.650
+Warren 416: As it turns out, randomized response is differentially private. You can show that it provides a mathematical guarantee that nobody's data can be
+
+599
+01:02:04.810 --> 01:02:06.250
+Warren 416: Uncovered from that.
+
+600
+01:02:07.080 --> 01:02:11.030
+Warren 416: And attribute it to that person with a very high public.
+
+601
+01:02:12.500 --> 01:02:20.500
+Warren 416: Nothing's perfect, so there's always a probability to get hit upon it by accident, but you quantify that probability, and it's really small that you violate somebody's privacy from that.
+
+602
+01:02:21.960 --> 01:02:36.440
+Warren 416: And the answer to that is, you know, in many cases, that's not possible, right? You're fielding an RCT, you are collecting the data, you want enough precision from that, because if I don't, then there might be many things that I can't do.
+
+603
+01:02:37.000 --> 01:02:43.500
+Warren 416: There is one strand in the privacy protection literature that quantifies the cost of privacy
+
+604
+01:02:43.730 --> 01:02:46.680
+Warren 416: As similar to the cost of sample size.
+
+605
+01:02:47.310 --> 01:03:02.740
+Warren 416: Right? In order to get the same inference precision, you've done your power calculations for some things, in particular for RCTs, right? You can incorporate the uncertainty that you're adding because of the privacy protection into that power calculation. You can quantify it as how many additional
+
+606
+01:03:02.800 --> 01:03:10.779
+Warren 416: units must I now survey, because I'm going to apply this privacy protection in order to still have power to detect an effect of a certain size?
+
+607
+01:03:11.840 --> 01:03:14.840
+Warren 416: Increasing sample size means more cost.
+
+608
+01:03:15.290 --> 01:03:21.890
+Warren 416: Right, so here you are literally quantifying the cost of privacy protection in the survey collection mechanism.
+
+609
+01:03:23.180 --> 01:03:27.740
+Warren 416: But if that's what you intend to do, if that's what your IRB wants you to do.
+
+610
+01:03:28.380 --> 01:03:40.009
+Warren 416: then that… now I've just moved the consideration for privacy and the ethical distribution of the data, not even into the conduct of the RCT, not even into the planning of the RCT,
+
+611
+01:03:40.080 --> 01:03:52.150
+Warren 416: we're pushing it back into the funding of the RCT, right? Because you actually have to request from your funder the funds necessary to incorporate those protection that then your ethics board will sign off on, that you will then collect, that you will then
+
+612
+01:03:53.430 --> 01:03:56.949
+Warren 416: So you have to be aware of these things way ahead of time.
+
+613
+01:03:59.940 --> 01:04:10.829
+Warren 416: But there are tools out there to incorporate this into power calculations, right? There are papers that sort of say, okay, you want to apply this method, apply this factor to these things out there.
+
+614
+01:04:11.060 --> 01:04:16.440
+Warren 416: I'm not an expert on that, and they're not all perfect, but they do exist out there to sort of think about this.
+
+615
+01:04:16.660 --> 01:04:19.800
+Warren 416: But maybe K-anonymity is sufficient for that.
+
+616
+01:04:20.860 --> 01:04:29.510
+Warren 416: And… If all of that fails, We can talk about… sharing the…
+
+617
+01:04:29.920 --> 01:04:36.079
+Warren 416: Data that fails some of the more stringent privacy protections, but has still enough utility to be used.
+
+618
+01:04:36.490 --> 01:04:38.479
+Warren 416: Through secure distribution mechanisms.
+
+619
+01:04:40.420 --> 01:04:44.909
+Warren 416: So, before I go to that, any further questions on this?
+
+620
+01:04:46.320 --> 01:05:00.390
+Warren 416: you've got a bit of homework to go to. I strongly encourage you to have a look at those… the Canonibity Playground and the video, but the article there, the Garfinkel, article, is very well and easy to read,
+
+621
+01:05:00.730 --> 01:05:02.370
+Warren 416: It's worthwhile to look at it.
+
+622
+01:05:03.260 --> 01:05:10.659
+Warren 416: It hides a lot of the complexity, but you get what the gist of it is, and what the risks are, which is what the part that you need to worry about.
+
+623
+01:05:17.950 --> 01:05:21.149
+Warren 416: Part of our back and forth with the referees here is that we have
+
+624
+01:05:21.440 --> 01:05:26.689
+Warren 416: At some level, referees are saying, yes, but your methods are not perfectly differentially private.
+
+625
+01:05:27.600 --> 01:05:39.460
+Warren 416: And we're sort of saying yes, but if we do, we can no longer inference what we do here, and we're just doing a post-analysis, so I'm actually thinking that we should actually publish those referee reports as part of the article, but that's a different question.
+
+626
+01:05:40.210 --> 01:05:51.359
+Warren 416: Okay. I'll just note in passing that one way to partially get around this, but only in combination of what comes afterwards, is synthetic data generation.
+
+627
+01:05:52.090 --> 01:05:55.870
+Warren 416: So we were talking about data deunification and anonymization.
+
+628
+01:05:56.180 --> 01:05:59.980
+Warren 416: If you actually say, let me create data that looks
+
+629
+01:06:00.220 --> 01:06:03.900
+Warren 416: like the data I collected, but is not the data I collected.
+
+630
+01:06:05.790 --> 01:06:08.080
+Warren 416: So I can still run my analysis through.
+
+631
+01:06:08.910 --> 01:06:10.969
+Warren 416: Then you're talking about synthetic data.
+
+632
+01:06:11.220 --> 01:06:19.550
+Warren 416: Again, proponents of synthetic data make it out to be easier than it actually is in practice. I've been involved with synthetic data for
+
+633
+01:06:19.710 --> 01:06:21.910
+Warren 416: A decade and a half,
+
+634
+01:06:23.290 --> 01:06:28.099
+Warren 416: You can generate synthetic data pretty easily that makes your code run.
+
+635
+01:06:29.670 --> 01:06:32.019
+Warren 416: It is an extremely hard endeavor.
+
+636
+01:06:32.770 --> 01:06:44.490
+Warren 416: To create synthetic data that actually produce results similar to those that you're producing, and it's virtually impossible to do so, to get exactly the result, because now you're back into this differential privacy world.
+
+637
+01:06:45.680 --> 01:06:50.929
+Warren 416: So, synthetic data generation can help if you can't publish the data because it's too…
+
+638
+01:06:51.390 --> 01:06:56.769
+Warren 416: Removing or making it anonymous would destroy its utility, then you can create synthetic data.
+
+639
+01:06:57.300 --> 01:07:08.160
+Warren 416: So instead of Bob, you're gonna call him Jack, and instead of Jill, it's gonna be Jane, or something like that. You can do synthetic data on data, on zip codes, on all sorts of things.
+
+640
+01:07:08.950 --> 01:07:12.259
+Warren 416: But that your code can still run through, that's perfectly possible.
+
+641
+01:07:12.410 --> 01:07:20.370
+Warren 416: So that's… that's one way to get transparency, but behind the scenes, you are still generating the results with data that you now no longer publish.
+
+642
+01:07:21.140 --> 01:07:23.290
+Warren 416: Okay, so what can you do with that?
+
+643
+01:07:25.070 --> 01:07:30.470
+Warren 416: Well, the honest answer is it's not obvious.
+
+644
+01:07:31.800 --> 01:07:33.620
+Warren 416: You always can.
+
+645
+01:07:34.380 --> 01:07:39.329
+Warren 416: Work with your institution to keep the data securely in the institution.
+
+646
+01:07:40.060 --> 01:07:40.810
+Warren 416: Right?
+
+647
+01:07:41.410 --> 01:07:43.410
+Warren 416: That is a minimum level.
+
+648
+01:07:43.520 --> 01:07:48.800
+Warren 416: you still need to think about it. That's not just, oh, I have it in a USB drive in my office.
+
+649
+01:07:49.250 --> 01:07:52.059
+Warren 416: You probably want to think about, well.
+
+650
+01:07:52.220 --> 01:07:56.189
+Warren 416: What if I leave my institution, but the data can only stay, say, for now?
+
+651
+01:07:56.940 --> 01:08:01.910
+Warren 416: I need to hand this off to somebody. And ideally, I don't do this last minute, rather, I plan ahead with that.
+
+652
+01:08:02.340 --> 01:08:04.750
+Warren 416: It has personally identifying information.
+
+653
+01:08:05.550 --> 01:08:21.130
+Warren 416: how can it be kept at the university in a way that is worthwhile doing? Something to think about from the start, but it may be part of the discussion all throughout the research about where can I actually run my code on confidential data.
+
+654
+01:08:21.680 --> 01:08:22.500
+Warren 416: Right?
+
+655
+01:08:22.600 --> 01:08:26.630
+Warren 416: This is a university computer, it has an encrypted hard drive.
+
+656
+01:08:26.770 --> 01:08:34.820
+Warren 416: My workstation in my office has an encrypted hard drive, those are minimum requirements that my university imposes on me if I want to keep personalizing information on systems.
+
+657
+01:08:36.189 --> 01:08:48.220
+Warren 416: But over the years, my university has also told me, and we need, an escrow encryption key for your computer, so that when you are not there to unlock it, the IT staff can unlock it.
+
+658
+01:08:51.149 --> 01:08:53.440
+Warren 416: Again, what happens when I'm no longer there?
+
+659
+01:08:54.399 --> 01:08:59.360
+Warren 416: What happens if this falls into the water? Is that the only place that the data ever exists?
+
+660
+01:09:00.319 --> 01:09:06.040
+Warren 416: So, is it in the backups? Are there things you want to worry about for your research, not even thinking about 5 years ahead?
+
+661
+01:09:08.700 --> 01:09:15.520
+Warren 416: The downsides with journal policies that require 5 years of retention are that…
+
+662
+01:09:16.510 --> 01:09:18.939
+Warren 416: You have to answer those emails.
+
+663
+01:09:21.840 --> 01:09:30.450
+Warren 416: Generically, we as data editors do not like to have to ask the researcher to provide the data post-publication, because
+
+664
+01:09:31.220 --> 01:09:38.249
+Warren 416: This is a statistic… verified in various publications, about 70% of authors never answered.
+
+665
+01:09:38.410 --> 01:09:44.649
+Warren 416: When you ask them for data after publication. Publication is done, I don't care about this, I don't want you to have my data, I'm just not answering the email.
+
+666
+01:09:46.100 --> 01:09:51.020
+Warren 416: So the typical response rate for those kinds of things is on… in the 30%. That's not great.
+
+667
+01:09:51.479 --> 01:09:52.550
+Warren 416: Right?
+
+668
+01:09:53.350 --> 01:10:08.420
+Warren 416: But there are also authors who say, sure, I'll answer, but I don't… what if it becomes, like, super popular? I don't want to, like, become DHS program and answer these emails. I don't have… you know, it's me. I don't have staff to handle this, I don't have systems to handle this.
+
+669
+01:10:08.630 --> 01:10:13.010
+Warren 416: So where can you find systems that you can hand this off to?
+
+670
+01:10:16.150 --> 01:10:18.179
+Warren 416: Some of it can be institutional.
+
+671
+01:10:19.530 --> 01:10:34.900
+Warren 416: I don't know about CIDR, but maybe CIDR handles data for his researchers, because they have somebody always on staff whose job it will be to handle this. And it's a small part of that person's job, but now there's mechanisms, there's email inboxes that are monitored and stuff like that.
+
+672
+01:10:35.040 --> 01:10:39.839
+Warren 416: Right? So going one level up from the researcher to an institute level might work.
+
+673
+01:10:39.970 --> 01:10:44.530
+Warren 416: I can guarantee you at Cornell, you can't go higher up than that, because everybody will just blow you off.
+
+674
+01:10:45.030 --> 01:10:47.360
+Warren 416: Nobody wants to do that. Where's the funding?
+
+675
+01:10:48.250 --> 01:10:50.090
+Warren 416: So that doesn't work.
+
+676
+01:10:51.960 --> 01:10:54.799
+Warren 416: You can hand it off to data repositories.
+
+677
+01:10:55.190 --> 01:11:00.290
+Warren 416: Right? So I've got linked to your ICPSR in Dataverse, where you can create
+
+678
+01:11:00.750 --> 01:11:05.889
+Warren 416: Actually, I should have linked to Zenodo as well, where you can create
+
+679
+01:11:06.000 --> 01:11:10.749
+Warren 416: repositories, so that they take care of this data it's preserved.
+
+680
+01:11:11.320 --> 01:11:18.319
+Warren 416: And that are linked to mechanisms where you have to register with an email and agree to some terms of use.
+
+681
+01:11:19.050 --> 01:11:21.339
+Warren 416: That might be good for some things.
+
+682
+01:11:22.040 --> 01:11:35.939
+Warren 416: But in other things, when you absolutely cannot de-identify because the names are critical to the research, you're back in the world where you probably are going to require, I needed an IRB to collect these names. You are going to need an IRB approval to use the data that I collected.
+
+683
+01:11:36.750 --> 01:11:37.420
+Warren 416: Bye.
+
+684
+01:11:38.200 --> 01:11:43.230
+Warren 416: And neither of these have a simple mechanism to verify that you have IRB.
+
+685
+01:11:45.440 --> 01:11:49.190
+Warren 416: ICPSR does, but as I just recounted earlier.
+
+686
+01:11:49.600 --> 01:11:55.830
+Warren 416: they have their own opinion about what data should go there, and that often is much more restrictive than the original IRB actually had.
+
+687
+01:11:56.400 --> 01:12:08.280
+Warren 416: And it doesn't become very convenient, because they're going to say, we don't believe that you agreed to not put the data someplace, so you're going to run it on our computers in the cloud at ICPSR,
+
+688
+01:12:09.290 --> 01:12:13.499
+Warren 416: They're not great computers in the cloud at ICPSR, and you have to pay…
+
+689
+01:12:14.360 --> 01:12:19.829
+Warren 416: $700 for some time period in order to get access to it. I forget if it's per month or per year.
+
+690
+01:12:20.730 --> 01:12:22.720
+Warren 416: So, they have a mechanism.
+
+691
+01:12:23.790 --> 01:12:29.390
+Warren 416: You can deposit there, it doesn't cost you any money, any future users would need to accommodate that, right?
+
+692
+01:12:31.260 --> 01:12:38.359
+Warren 416: But this is indicative of other options that are out there. I mentioned earlier the statistical office in Kapala and Uganda.
+
+693
+01:12:38.700 --> 01:12:43.420
+Warren 416: Right, so statistical office or national archives sometimes have mechanisms like that.
+
+694
+01:12:43.900 --> 01:12:52.290
+Warren 416: We have worked in wearing my hat as data with National Archives in Sweden to deposit data that is subject to GDPR.
+
+695
+01:12:52.410 --> 01:12:58.790
+Warren 416: So somebody needs to verify that the use is compliant with GDPR, and the National Archives handle that.
+
+696
+01:12:59.520 --> 01:13:03.190
+Warren 416: So there's a Swedish national data archive that does that kind of thing.
+
+697
+01:13:03.560 --> 01:13:06.829
+Warren 416: Perfect. We plugged it there, off we go.
+
+698
+01:13:07.310 --> 01:13:11.920
+Warren 416: the French have some sort of national archive, the Germans have some sort of national archive, that…
+
+699
+01:13:12.040 --> 01:13:14.889
+Warren 416: Has some admissibility criteria that
+
+700
+01:13:15.470 --> 01:13:28.110
+Warren 416: you may or may not be admissible if you have… if you're working in Germany, and that then have additional things along the background, a mechanism, a workflow, to sort of verify that somebody has IRB approval before accessing.
+
+701
+01:13:29.390 --> 01:13:38.680
+Warren 416: Right? So this is something to look into, in terms of, is there a capability locally in sort of doing these kinds of things?
+
+702
+01:13:41.620 --> 01:13:53.489
+Warren 416: There are… I don't know about Latin American archives that do that. I've not seen great stuff there, but Chile has a pretty robust internal architecture for some of these things.
+
+703
+01:13:53.590 --> 01:13:58.429
+Warren 416: There's actually some decent, institutional architecture in Africa for this.
+
+704
+01:13:58.570 --> 01:14:06.029
+Warren 416: That has the ability to store, in Africa African data sets with an access protocol around it.
+
+705
+01:14:06.270 --> 01:14:10.880
+Warren 416: I think they're headquartered in South Africa, but I'm not entirely certain.
+
+706
+01:14:11.310 --> 01:14:16.789
+Warren 416: So it's worthwhile to look where to offload these data.
+
+707
+01:14:17.090 --> 01:14:18.810
+Warren 416: Once you're done with your research.
+
+708
+01:14:19.290 --> 01:14:21.730
+Warren 416: It's also worthwhile to think about, well.
+
+709
+01:14:22.620 --> 01:14:31.060
+Warren 416: how much after that do we want to keep these data from this one experiment? Should we keep every dataset for 100 years? It's a different question, right?
+
+710
+01:14:31.800 --> 01:14:33.590
+Warren 416: Journals say 5 years.
+
+711
+01:14:34.080 --> 01:14:39.300
+Warren 416: Five years is about the decline of citations that happens when stuff goes out there, right?
+
+712
+01:14:40.030 --> 01:14:46.719
+Warren 416: But I've contacted authors because we've detected, say, on some of the old deposits before I became data editor.
+
+713
+01:14:46.840 --> 01:14:53.750
+Warren 416: say, 2015, replication package. Turns out somebody used it and found that the data are corrupt.
+
+714
+01:14:54.030 --> 01:15:03.799
+Warren 416: I emailed the author, and the day afterwards, she said, yeah, here's the updated zip file, my computer was still all fine, right? So people actually keep stuff around for a long time.
+
+715
+01:15:04.250 --> 01:15:10.940
+Warren 416: The question is, do they… what happens at retirement, what happens when people change institutions, etc?
+
+716
+01:15:11.450 --> 01:15:14.809
+Warren 416: That email from… the article.
+
+717
+01:15:15.550 --> 01:15:33.610
+Warren 416: from… published in 2014, 12 years later, and the person's still at the same institution and found the data immediately, that happens to be a well-organized person who doesn't move institutions very often, right? Might be a very different story when somebody moves institutions or even exits academia. People are almost unfindable if they exit academia.
+
+718
+01:15:34.270 --> 01:15:34.950
+Warren 416: Right.
+
+719
+01:15:35.290 --> 01:15:40.330
+Warren 416: So that's where handing it off to somebody else becomes… Super useful.
+
+720
+01:15:45.790 --> 01:15:48.639
+Warren 416: Okay, that's the data pipeline.
+
+721
+01:15:49.730 --> 01:15:57.890
+Warren 416: So there's two additional things that I will point to one, and then I'm gonna just…
+
+722
+01:15:58.000 --> 01:16:02.520
+Warren 416: Go back to data when data are confidential, what does the code look like?
+
+723
+01:16:02.820 --> 01:16:05.910
+Warren 416: But I want to…
+
+724
+01:16:09.870 --> 01:16:12.020
+Warren 416: This is actually there twice.
+
+725
+01:16:15.340 --> 01:16:18.990
+Warren 416: That's weird. Okay. That's not the one.
+
+726
+01:16:26.320 --> 01:16:27.840
+Warren 416: Okay.
+
+727
+01:16:30.720 --> 01:16:34.629
+Warren 416: So this is a presentation that I've been doing a bit.
+
+728
+01:16:34.750 --> 01:16:41.909
+Warren 416: And just to give you an overview, it hinges on…
+
+729
+01:16:42.060 --> 01:16:45.240
+Warren 416: Credibility of where your survey data comes from.
+
+730
+01:16:53.620 --> 01:16:56.649
+Warren 416: But it works off the idea that
+
+731
+01:16:57.330 --> 01:17:02.990
+Warren 416: I mentioned this earlier, that you want to focus on automating many parts of your workflow.
+
+732
+01:17:03.160 --> 01:17:09.950
+Warren 416: Well, one of the things that you can actually also automate is the extraction from the survey into that first data set.
+
+733
+01:17:11.100 --> 01:17:18.429
+Warren 416: Right? So if you're using SurveyCTO or Qualtrics, You can actually write code
+
+734
+01:17:18.880 --> 01:17:22.690
+Warren 416: Very simple code, actually. It's a single R package for Qualtrics.
+
+735
+01:17:23.370 --> 01:17:30.889
+Warren 416: It's one line with a bit of setup to download from the survey into a dataset. And if you can do that.
+
+736
+01:17:43.140 --> 01:17:48.630
+Warren 416: Then you can also filter out filter in…
+
+737
+01:17:49.670 --> 01:17:52.519
+Warren 416: The variables, and only the variables that you need.
+
+738
+01:17:54.160 --> 01:17:59.459
+Warren 416: Right? So, if you get your data from Qualtrics into Data Raw.
+
+739
+01:18:00.770 --> 01:18:03.469
+Warren 416: Then the confidential data might still have
+
+740
+01:18:03.610 --> 01:18:06.370
+Warren 416: Explicitly stuff in there that's confidential.
+
+741
+01:18:07.550 --> 01:18:10.940
+Warren 416: And you can keep both of them in separate areas.
+
+742
+01:18:11.570 --> 01:18:16.750
+Warren 416: One of which might be your university-identified path, and the other one might be your research path.
+
+743
+01:18:18.050 --> 01:18:25.280
+Warren 416: And you can confirm the whole thing with CheckSense. It'll allow you later on to say, this is exactly what I did, even if I can't show you the data.
+
+744
+01:18:27.400 --> 01:18:33.010
+Warren 416: And I had some… code here, and I'll point you to these things.
+
+745
+01:18:52.470 --> 01:18:54.679
+Warren 416: What's the content I want to show, actually.
+
+746
+01:19:12.700 --> 01:19:13.890
+Warren 416: Yeah.
+
+747
+01:19:23.860 --> 01:19:24.650
+Warren 416: Right.
+
+748
+01:19:26.080 --> 01:19:31.500
+Warren 416: So, in order to download from Qualtrics, it's as easy as what you see there on screen.
+
+749
+01:19:32.550 --> 01:19:39.309
+Warren 416: Right, so… Read survey. You've defined in environment parallels where your survey is.
+
+750
+01:19:39.460 --> 01:19:42.570
+Warren 416: But that's it. That's the raw data that it pulls down.
+
+751
+01:19:42.890 --> 01:19:43.590
+Warren 416: Right.
+
+752
+01:19:45.500 --> 01:19:51.490
+Warren 416: Now, you can then do what I just showed earlier. You can select out the variables that you are interested in.
+
+753
+01:19:52.320 --> 01:19:53.070
+Warren 416: Right?
+
+754
+01:19:54.840 --> 01:20:00.369
+Warren 416: or… You completely not select the confidential data.
+
+755
+01:20:01.660 --> 01:20:14.269
+Warren 416: And only if you need to go back, because this is now reproducible code, you can edit your code, run it again, if you figure out, oh, I forgot to extract a variable, right? This is where reproducibility helps you.
+
+756
+01:20:14.340 --> 01:20:27.749
+Warren 416: Because you're confident that I can re-extract this at any point in time. I don't have to worry about, I forgot a variable. Oh yeah, I forgot a variable. I just rerun my pipeline again, I'll add it to the code, and the whole thing runs through again up to the point where it broke.
+
+757
+01:20:27.910 --> 01:20:28.640
+Warren 416: Right?
+
+758
+01:20:29.330 --> 01:20:35.810
+Warren 416: We mentioned earlier that you might need to figure out gender from names, or in this case, you might want to figure out a distance
+
+759
+01:20:37.190 --> 01:20:45.470
+Warren 416: from the GPS coordinates, once you have the distance, you no longer need the GPS coordinates, and so now you're going to drop them.
+
+760
+01:20:46.850 --> 01:20:49.039
+Warren 416: And all of that is in a single pipeline.
+
+761
+01:20:50.250 --> 01:20:51.000
+Warren 416: Right?
+
+762
+01:20:51.270 --> 01:20:58.270
+Warren 416: So, again, you are being very conscious about the fact that These are confidential. Sorry.
+
+763
+01:20:59.390 --> 01:21:00.900
+Warren 416: These are confidential.
+
+764
+01:21:01.660 --> 01:21:08.849
+Warren 416: And I'm only going to keep them as long as I need them to do the computations that are there, because as soon as I no longer need them, I'm going to drop.
+
+765
+01:21:11.200 --> 01:21:17.529
+Warren 416: And… So… This is sort of defensive programming.
+
+766
+01:21:18.280 --> 01:21:29.109
+Warren 416: And it's building on some of the automation in terms of getting straight from your survey instrument, or straight from your other administrative data source, would be the same kind of scenario.
+
+767
+01:21:29.410 --> 01:21:31.850
+Warren 416: To sort of moving through the entire workflow.
+
+768
+01:21:32.770 --> 01:21:38.220
+Warren 416: And in this presentation that I have, Some more information about I'm sorry.
+
+769
+01:21:40.350 --> 01:21:46.510
+Warren 416: I have some more information about how to go about making this height, in the sense of creating checksums.
+
+770
+01:21:46.780 --> 01:21:50.349
+Warren 416: To show that if anybody ever does access the data.
+
+771
+01:21:54.170 --> 01:21:57.529
+Warren 416: get back to where I was since I went too far ahead.
+
+772
+01:22:02.570 --> 01:22:03.290
+Warren 416: Okay.
+
+773
+01:22:09.800 --> 01:22:10.630
+Warren 416: Okay.
+
+774
+01:22:10.860 --> 01:22:19.260
+Warren 416: Can't find my original page, that doesn't matter. I'll… I'll link it for you guys. So it walks you through, essentially, how you want to…
+
+775
+01:22:19.610 --> 01:22:27.729
+Warren 416: get the data in the first place. It also walks you through how, in that same pipeline, you can also then immediately deposit the
+
+776
+01:22:27.860 --> 01:22:33.560
+Warren 416: non-confidential data into something like Dataverse, so that it's preserved right from the start.
+
+777
+01:22:33.990 --> 01:22:49.430
+Warren 416: Right? And again, the idea behind it is that you have this notion of you become the PSID, you become the DHS program, you become… you have one role, which is data provider, you have another role, which is researcher, and you're going to separate those roles out.
+
+778
+01:22:49.570 --> 01:23:02.270
+Warren 416: Right? And so, in that tutorial, you extract from the survey, that's you as the data curator. You clean the data of all the confidential data, that's you as the data curator, and you push it to
+
+779
+01:23:02.460 --> 01:23:06.340
+Warren 416: for now, a private Dataverse instance, that's you as a data curator.
+
+780
+01:23:06.670 --> 01:23:08.649
+Warren 416: Then you, as a researcher.
+
+781
+01:23:09.100 --> 01:23:15.240
+Warren 416: will use the data that's published on Dataverse, the same way that you're using the data downloaded from DHS
+
+782
+01:23:15.550 --> 01:23:22.990
+Warren 416: to use that and move on from there, right? So that's separation, possibly mentally, possibly organizationally within a larger group.
+
+783
+01:23:23.170 --> 01:23:25.699
+Warren 416: Is really helpful to think through, because
+
+784
+01:23:26.330 --> 01:23:27.999
+Warren 416: Now you don't have to worry about it.
+
+785
+01:23:28.970 --> 01:23:33.950
+Warren 416: Private data, identifying data, leaking into your research, because there is a clear
+
+786
+01:23:34.140 --> 01:23:41.809
+Warren 416: point where you don't have to do that. You can review that, you can add the checkers in there as part of that whole thing. You can build stuff around it to be sure.
+
+787
+01:23:42.990 --> 01:23:45.910
+Warren 416: But you can be sure that if you're going to use the
+
+788
+01:23:46.170 --> 01:23:50.909
+Warren 416: Data that you, as the data curator, have published yourself on your own private dataverse.
+
+789
+01:23:51.420 --> 01:23:55.770
+Warren 416: Now I'm just going to assume that that part is fine, I'm going to just worry about the research.
+
+790
+01:23:59.400 --> 01:24:05.569
+Warren 416: And the second one is… Something I wanted to bring up.
+
+791
+01:24:05.720 --> 01:24:12.429
+Warren 416: In terms of how do you code when data are confidential, and one of the key elements of that
+
+792
+01:24:23.310 --> 01:24:24.760
+Warren 416: Not this one.
+
+793
+01:24:32.460 --> 01:24:33.710
+Warren 416: Yep, this one.
+
+794
+01:24:36.120 --> 01:24:40.269
+Warren 416: The key element of that is that you also need to
+
+795
+01:24:40.600 --> 01:24:45.070
+Warren 416: Avoid that confidential data gets into your code.
+
+796
+01:24:45.870 --> 01:24:47.599
+Warren 416: What might that be?
+
+797
+01:24:48.390 --> 01:24:51.700
+Warren 416: Well… You're talking about data cleaning.
+
+798
+01:24:52.150 --> 01:24:54.940
+Warren 416: You're talking that you might have geo-variables in there.
+
+799
+01:24:55.190 --> 01:25:05.180
+Warren 416: So what if one of your respondents has sort of miscoded their address, you look at it, data cleaning, it pops out, you're going to recode that bad address into a good address.
+
+800
+01:25:06.060 --> 01:25:10.770
+Warren 416: Well… You can do that as an if-then-else statement in code, right?
+
+801
+01:25:11.130 --> 01:25:16.540
+Warren 416: But now you have the original confidential value in there, and a potentially other confidential value as part of that code.
+
+802
+01:25:17.300 --> 01:25:18.470
+Warren 416: Right?
+
+803
+01:25:19.710 --> 01:25:26.230
+Warren 416: The example that I have in this code takes presidential names and Curious of geo example.
+
+804
+01:25:26.840 --> 01:25:34.780
+Warren 416: Right? So I know that when Joe Biden comes in, I actually want to have the full name, because all the other presidents I have in this list have full names.
+
+805
+01:25:34.940 --> 01:25:43.580
+Warren 416: Right? And I know that if I see this particular mistype, which popped out when I did my aggregations, that county doesn't exist, I'm going to normalize that.
+
+806
+01:25:43.890 --> 01:25:47.439
+Warren 416: But what if I have to suppress counties? What if names are confidential?
+
+807
+01:25:47.830 --> 01:25:49.180
+Warren 416: I…
+
+808
+01:25:50.210 --> 01:25:56.500
+Warren 416: Now, in order to publish that code, when there's a data editor knocking on your door, or for transparency reasons, you're gonna have to redact the code.
+
+809
+01:25:57.000 --> 01:26:01.460
+Warren 416: Gonna have to find all the confidential data in the code.
+
+810
+01:26:02.320 --> 01:26:06.870
+Warren 416: And… One way is to plan ahead.
+
+811
+01:26:07.190 --> 01:26:11.719
+Warren 416: Right, and so if you are going to have to map things using code.
+
+812
+01:26:11.840 --> 01:26:15.810
+Warren 416: You're going to have a file that only contains those confidential mappings.
+
+813
+01:26:17.280 --> 01:26:27.269
+Warren 416: And so now you know that that mapping I can't show you because it contains this code. Here's what it looks like, this is the type of mapping that I'm doing, but they're hidden away.
+
+814
+01:26:27.940 --> 01:26:30.399
+Warren 416: And everything else I can publish, I don't have to think about.
+
+815
+01:26:30.810 --> 01:26:45.609
+Warren 416: That is really hard to do after the fact, but if you start thinking about this from the start… oh, my… hold on, let me see. I'm starting to edit my data with the code here. I'm gonna have to worry about that at the tail end. I'm going to create a separate file. Let's put that out there.
+
+816
+01:26:45.950 --> 01:26:46.680
+Warren 416: Okay?
+
+817
+01:26:48.420 --> 01:26:53.110
+Warren 416: What I think is a better solution is to actually treat it as what it is. It's data.
+
+818
+01:26:53.630 --> 01:26:54.330
+Warren 416: 8.
+
+819
+01:26:54.580 --> 01:27:00.800
+Warren 416: And… If I already know that some of my data is confidential, then creating additional confidential data.
+
+820
+01:27:01.080 --> 01:27:06.719
+Warren 416: I can just lump it all in. I'm not gonna publish the confidential data, I'm just gonna put it into the same place that all that stuff is.
+
+821
+01:27:06.930 --> 01:27:07.690
+Warren 416: Right?
+
+822
+01:27:07.810 --> 01:27:11.089
+Warren 416: So now, if I use this as a CSV file.
+
+823
+01:27:11.950 --> 01:27:17.770
+Warren 416: that I'm just going to merge in, that's what the left join does, to the dataset that I want to process.
+
+824
+01:27:17.880 --> 01:27:20.009
+Warren 416: Now I can have a very generic
+
+825
+01:27:20.540 --> 01:27:26.830
+Warren 416: modification if-else statement that has no confidential data in there. All that confidential data is in the names mappings.
+
+826
+01:27:28.320 --> 01:27:34.409
+Warren 416: That's one way of doing it. There might be other ways of doing it, right? And we're getting back the ones I no longer need
+
+827
+01:27:34.570 --> 01:27:36.180
+Warren 416: that other name.
+
+828
+01:27:36.760 --> 01:27:38.049
+Warren 416: I'm just gonna delete it.
+
+829
+01:27:39.470 --> 01:27:40.170
+Warren 416: Right?
+
+830
+01:27:40.610 --> 01:27:42.330
+Warren 416: So now it's very clean.
+
+831
+01:27:43.390 --> 01:27:45.079
+Warren 416: I have a mapping set.
+
+832
+01:27:45.710 --> 01:27:49.309
+Warren 416: It's data. It's confidential data, I've made that clear.
+
+833
+01:27:50.050 --> 01:27:53.249
+Warren 416: But my code is completely transparent of what I'm doing here.
+
+834
+01:27:54.360 --> 01:28:01.680
+Warren 416: Could somebody still think that I'm messing with the data here? Of course. That's intrinsic to the fact that I can't show all my cards, right?
+
+835
+01:28:02.320 --> 01:28:05.280
+Warren 416: But at least I can show them that the code is set up in Azure.
+
+836
+01:28:05.930 --> 01:28:11.790
+Warren 416: And if I have a mechanism to bring somebody in to audit my code and look at the stuff that I'm doing and all that kind of stuff.
+
+837
+01:28:12.570 --> 01:28:14.770
+Warren 416: Yes, that happens too, right?
+
+838
+01:28:15.170 --> 01:28:17.870
+Warren 416: still trying to set up the VPN to access the
+
+839
+01:28:18.630 --> 01:28:22.589
+Warren 416: Chilean tax data on a Swiss data of some researcher.
+
+840
+01:28:23.440 --> 01:28:31.579
+Warren 416: Because as a data editor, I'm going there to audit what they did on the server that I… they've given me access to, so that I can conduct those things.
+
+841
+01:28:31.870 --> 01:28:32.550
+Warren 416: Right.
+
+842
+01:28:33.380 --> 01:28:41.990
+Warren 416: And what I do is that I bring all the code from the outside, and they have all the confidential data that's there that can't be removed from that server.
+
+843
+01:28:43.810 --> 01:28:48.260
+Warren 416: But all the code, just exactly like here, is public.
+
+844
+01:28:49.220 --> 01:28:49.890
+Warren 416: Right?
+
+845
+01:28:53.290 --> 01:28:57.849
+Warren 416: And if you want to try this out in R, there's a GitHemp repository to go with it.
+
+846
+01:28:58.840 --> 01:29:03.520
+Warren 416: Okay, so I've been focusing today mostly on how you have to think about
+
+847
+01:29:03.720 --> 01:29:08.820
+Warren 416: Making data public, when to make data public, when not to make data public, etc.
+
+848
+01:29:09.080 --> 01:29:10.969
+Warren 416: I want to end with this idea that
+
+849
+01:29:11.320 --> 01:29:14.570
+Warren 416: Don't let the data seep into your code.
+
+850
+01:29:15.500 --> 01:29:19.070
+Warren 416: That's also something you have to plan from the start. Don't let it…
+
+851
+01:29:19.280 --> 01:29:23.679
+Warren 416: Somehow get into your code, because now you've got a much bigger problem.
+
+852
+01:29:25.230 --> 01:29:29.860
+Warren 416: It's clear that those three data files are confidential, but what lines of my code are now confidential?
+
+853
+01:29:30.330 --> 01:29:31.529
+Warren 416: Very different thing.
+
+854
+01:29:32.130 --> 01:29:32.810
+Warren 416: Okay.
+
+855
+01:29:33.630 --> 01:29:34.810
+Warren 416: And I'll stop there.
+
+856
+01:29:37.130 --> 01:29:55.829
+Warren 416: Thank you. Thank you guys for going long, especially accommodating for the delay, but… No worries. And we will see you again on… Is there anything for them to look at or work on? What's Friday on? It's, session 5.
+
+857
+01:29:56.470 --> 01:30:01.940
+Warren 416: It says day N minus 1? Okay, no, no, nothing to work on, you're like, okay.
+
+858
+01:30:02.190 --> 01:30:11.689
+Warren 416: There's a bit of homework I gave here in terms of those slides, so I need to send you so you can distribute the basic landing page updates together.
+
+859
+01:30:13.030 --> 01:30:18.460
+Warren 416: Okay. Thank you so much.
+
+860
+01:30:20.090 --> 01:30:21.170
+Warren 416: Alright.
+
+861
+01:30:22.040 --> 01:30:26.359
+Warren 416: Bye, everyone online, we'll see you again on Friday.
+
+862
+01:30:26.830 --> 01:30:27.680
+Warren 416: That's awesome.
+
+863
+01:30:29.610 --> 01:30:32.489
+Warren 416: So what do they have planned for you guys while you're in Ithaca?
+
