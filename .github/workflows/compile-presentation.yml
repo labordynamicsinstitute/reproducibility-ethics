@@ -169,18 +169,18 @@ jobs:
     - name: Download Book Artifact
       uses: actions/download-artifact@v8
       with:
-            path: .
-            pattern: artifact-book
+            name: artifact-book
+            path: artifact-book
     - name: Download HTML Artifacts
       uses: actions/download-artifact@v8
       with:
-            path: .
-            pattern: artifact-html
+            name: artifact-html
+            path: artifact-html
     - name: Download Pres PDF
       uses: actions/download-artifact@v8
       with:
-            path: .
-            pattern: artifact-presentation-pdf
+            name: artifact-presentation-pdf
+            path: artifact-presentation-pdf
    # Book at the site root, slides (and PDF) under /presentation/
     - name: Move stuff
       run: |
